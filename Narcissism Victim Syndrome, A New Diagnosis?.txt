@@ -1,0 +1,2078 @@
+<!DOCTYPE html>
+
+
+<html lang="en">
+<!--[10872|cccs|]--><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Narcissism Victim Syndrome, A New Diagnosis?</title>
+<meta property='og:url' content='https://www.medicalnewstoday.com/articles/10872.php'/>		<meta property="og:type" content="article"/>
+		<meta property="og:site_name" content="Medical News Today"/>
+		<meta property="og:title" content="Narcissism Victim Syndrome, A New Diagnosis?"/>
+					<meta property="og:description" content="Do you see a preponderance of middle aged women in your practices with no particular physical disease process, yet a variety of physical and/or emotional complaints, including: insomnia, weight..."/>
+			<meta name="description" content="Do you see a preponderance of middle aged women in your practices with no particular physical disease process, yet a variety of physical and/or emotional complaints, including: insomnia, weight..."/>
+						<meta property="og:image" content="https://cdn1.medicalnewstoday.com/structure/images/logo/logo-post.png"/>
+					<meta property="fb:admins" content="1658973110"/>
+		<meta property="fb:app_id" content="147184211975697"/>
+					<meta itemprop="description" content="Do you see a preponderance of middle aged women in your practices with no particular physical disease process, yet a variety of physical and/or emotional complaints, including: insomnia, weight..."/>
+						<meta itemprop="image" content="https://cdn1.medicalnewstoday.com/structure/images/logo/logo-post.jpg"/>
+					<meta name="twitter:domain" content="medicalnewstoday.com"/>
+		<meta name="twitter:card" content="summary_large_image"/>
+		<meta name="twitter:site" content="@mnt"/>
+		<meta name="twitter:title" content="Narcissism Victim Syndrome, A New Diagnosis?"/>
+					<meta name="twitter:description" content="Do you see a preponderance of middle aged women in your practices with no particular physical disease process, yet a variety of physical and/or emotional complaints, including: insomnia, weight..."/>
+					<meta name="twitter:creator" content="@mnt"/>
+					<meta name="twitter:image:src" content="https://cdn1.medicalnewstoday.com/structure/images/logo/logo-post.jpg"/>
+			<META name="rating" content="general">
+<META http-equiv="Cache-Control" content="no-cache">
+<link href="https://plus.google.com/+medicalnews" rel="publisher">
+<meta name="p:domain_verify" content="ca332f19ebf583ba72eff99cc210a982"/>
+<META http-equiv="bulletin-text" content="Copyright">
+
+			<link rel="canonical" href="https://www.medicalnewstoday.com/articles/10872.php">
+			
+<link rel="shortcut icon" type="image/png" href="https://cdn1.medicalnewstoday.com/favicon.png">
+<link rel="icon" sizes="32x32" href="https://cdn1.medicalnewstoday.com/favicon.ico">
+<link rel="apple-touch-icon" type="image/png" href="https://cdn1.medicalnewstoday.com/apple-touch-icon.png">
+
+	<link rel="alternate" type="application/rss+xml" title="Medical News Today - Health News Headlines RSS Feed" href="https://rss.medicalnewstoday.com/featurednews.xml">
+	<link rel="alternate" type="application/json" title="Medical News Today - Health News Headlines JSON Feed" href="https://rss.medicalnewstoday.com/json/featurednews.json">
+	
+<meta http-equiv="x-dns-prefetch-control" content="on">
+<link rel="preconnect dns-prefetch" href="//cdn1.medicalnewstoday.com" crossorigin>
+<link rel="preconnect dns-prefetch" href="//cdn2.medicalnewstoday.com" crossorigin>
+
+<link rel="preload" as="font" crossorigin="crossorigin" href="https://cdn2.medicalnewstoday.com/structure/fonts/ProximaNova/ProximaNova-Light.woff2">
+<link rel="preload" as="font" crossorigin="crossorigin" href="https://cdn2.medicalnewstoday.com/structure/fonts/ProximaNova/ProximaNova-Regular.woff2">
+<link rel="preload" as="font" crossorigin="crossorigin" href="https://cdn2.medicalnewstoday.com/structure/fonts/ProximaNova/ProximaNova-Bold.woff2">
+<link rel="preload" as="font" crossorigin="crossorigin" href="https://cdn2.medicalnewstoday.com/structure/fonts/ProximaNova/ProximaNova-ExtraBold.woff2">
+<link rel="preload" as="font" crossorigin="crossorigin" href="https://cdn2.medicalnewstoday.com/structure/fonts/Arnhem/ArnhemPro-Bold.woff">
+
+
+
+
+	<link rel="stylesheet" type="text/css" href="https://cdn2.medicalnewstoday.com/structure/styles/styles_fonts_7721.css">
+
+		
+
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+					<link rel="stylesheet" href="https://cdn2.medicalnewstoday.com/structure/styles/out/mnt_default_redesign_7721.css" type="text/css" media="all" />
+			
+		
+		
+
+
+		
+					<link rel="stylesheet" href="https://cdn2.medicalnewstoday.com/structure/styles/out/mnt_print_redesign_7721.css" type="text/css" media="print">
+				
+		
+
+
+<!--[if lt IE 9]>
+<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<link rel="stylesheet" href="https://cdn2.medicalnewstoday.com/structure/styles/out/mnt_ie.css" type="text/css" media="all" />
+	<![endif]-->
+<!--[if IE 7]>
+
+<script src="//ie7-js.googlecode.com/svn/version/2.1(beta4)/IE7.js"></script>
+<![endif]-->	
+<!--[if IE 9]>
+<script src="//ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script>
+<![endif]-->
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.2, maximum-scale=2.0, user-scalable=1"><!--desktop-->
+
+
+
+<noscript>
+<link rel="stylesheet" href="https://cdn1.medicalnewstoday.com/structure/styles/styles_noscript.css" type="text/css" media="all" />	
+</noscript>
+<script type="text/javascript" >
+			var glob_mntcookie = 1;
+	  </script>
+<script>
+
+glob_JS=(typeof glob_JS === 'undefined')?{'GAInit':[],'GA':[],"ExternalJS":[],"AD":[]}:glob_JS;
+
+glob_TrueOnGDPR=(glob_mntcookie!=1);
+
+//if use GDPR is true, we need this flag to make sure ga queue can ber execute after ga is ready
+glob_isGaReady=!glob_TrueOnGDPR;
+
+
+
+if(typeof fireOrSaveGoogleAdFunctions === 'undefined'){
+
+
+
+    function fireOrSaveGoogleAdFunctions(adFunction){
+
+        if(!glob_TrueOnGDPR){
+
+            adFunction();
+
+        }else{
+
+            if(typeof fireOrSaveGoogleADs === 'undefined'){
+                //save ad event in queue
+                glob_JS.AD.push(adFunction);
+            }else{
+                //let next function to determine save or fire ad function
+                fireOrSaveGoogleADs(adFunction);
+
+            }
+        }
+
+    }
+
+    function fireOrSaveJsFunctions(jsType,jsFunction){
+
+        if(!glob_TrueOnGDPR && jsType!=0){
+            //if GDPR already accept, and func type is not ga event, just exec
+
+            jsFunction()
+
+        }else if(!glob_TrueOnGDPR && jsType===0) {
+            //for ga event only
+
+            if(glob_isGaReady) {
+                //if ga ready, call the function
+                jsFunction();
+            }else{
+                //if user accept GDPR, but ga not ready, still push new command into queue
+                glob_JS.GA.push(jsFunction);
+
+            }
+
+        }else{
+
+                if(jsType<0){
+                    jsType='GAInit'
+                }else if(jsType==0){
+                    jsType='GA';
+                }else{
+                    jsType='ExternalJS';
+                }
+
+                if(typeof fireJS === 'undefined'){
+                    //save ad event in queue
+
+
+                    if(jsType=='GAInit'){
+
+                        glob_JS.GAInit.push(jsFunction);
+
+                    }else if(jsType=='GA') {
+
+                        glob_JS.GA.push(jsFunction);
+                    }else
+                    {
+                        //default is other js
+                        glob_JS.ExternalJS.push(jsFunction);
+                    }
+
+
+                }else{
+                    //let next function to determine save or fire ad function
+                    fireJS(jsType,jsFunction);
+
+                }
+            }
+    }
+
+
+
+    function loadScript(url, parameters,callback){
+
+
+
+        var script = document.createElement("script");
+        script.type = "text/javascript";
+
+
+        //add custom attribute
+        for (var key in parameters) {
+            if (parameters.hasOwnProperty(key)) {
+                script.setAttribute(key,parameters[key]);
+            }
+        }
+
+
+        if (script.readyState){  //IE
+            script.onreadystatechange = function(){
+                if (script.readyState == "loaded" ||
+                    script.readyState == "complete"){
+                    script.onreadystatechange = null;
+                    callback();
+                }
+            };
+        } else {  //Others
+            script.onload = function(){
+
+                if(typeof callback === 'function'){
+                    callback();
+                }
+
+            };
+        }
+
+        script.src = url;
+        document.getElementsByTagName("head")[0].appendChild(script);
+    }
+
+
+
+}
+
+</script>
+
+
+
+
+<!--<script type='text/javascript'>
+(function() {
+var useSSL = 'https:' == document.location.protocol;
+var src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+</script>-->
+
+
+<script type="text/javascript">
+	//CMP	
+ 	var isEEA = false;
+ 	var passEEACheck = false;
+
+	var metadata = 'BOSk20WOSk20WABABBENBR-AAAAeCAFAAUABwAEAANABCA';
+	var purposeConsents = { 1: true, 2: true, 3: true, 4: true, 5: true };
+	var vendorConsents = { 10:true, 28: true, 32: true, 52: true, 132: true };
+
+		function __cmp(cmd, p, cb) {
+			if (cmd === 'getVendorConsents' || cmd === 'getConsentData') {
+				cb({
+					hasGlobalScope: true,
+					gdprApplies: isEEA,
+					metadata: metadata,
+					consentData: metadata,
+					purposeConsents: purposeConsents,
+					vendorConsents: vendorConsents
+				}, true);
+			} else if (cmd === 'ping') {
+				cb({gdprAppliesGlobally: false, cmpLoaded: isEEA});
+			} else {
+				throw new Error('Invalid CMP command '+ cmd);
+			}
+		}
+</script>
+<!-- <script async src="//js-sec.indexww.com/ht/p/184901-208206248649346.js"></script> -->
+<script type="text/javascript">
+	fireOrSaveJsFunctions(1,function(){
+		(function() {
+			var indexWrapper = document.createElement("script");
+			indexWrapper.async = true;
+			indexWrapper.type = "text/javascript";
+			var useSSL = "https:" == document.location.protocol;
+			indexWrapper.src = (useSSL ? "https:" : "http:") + "//js-sec.indexww.com/ht/p/184901-208206248649346.js";
+			var node =document.getElementsByTagName("script")[0];
+			node.parentNode.insertBefore(indexWrapper, node);
+		})();
+	});
+</script>
+<script type="text/javascript">
+fireOrSaveJsFunctions(1,function(){
+	window.headertag = window.headertag || {};
+	window.headertag.pagetype='written';
+});
+</script>
+<!-- Load DFP -->
+<script type="text/javascript">
+	var googletag = googletag || { };
+	googletag.cmd = googletag.cmd || [ ];
+	fireOrSaveJsFunctions(1,function(){
+		(function() {
+			var gads = document.createElement("script");
+			gads.async = true;
+			gads.type = "text/javascript";
+			var useSSL = "https:" == document.location.protocol;
+			gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+			var node =document.getElementsByTagName("script")[0];
+			node.parentNode.insertBefore(gads, node);
+		})();
+	});
+</script>
+
+<!--New header bidding-->
+<script>
+var amzn_win=window,amzn_c=5,amzn_x=0;while(amzn_x<amzn_c){amzn_win=amzn_win.parent;if(amzn_win.apstag)try{amzn_win.apstag.renderImp(document,"%%PATTERN:amzniid%%");amzn_x=amzn_c}catch(e){}amzn_x++};
+</script> 
+
+<script type="text/javascript">
+	fireOrSaveGoogleAdFunctions(function() {
+		googletag.cmd.push(function () {
+			googletag.pubads().set("adsense_background_color", "FFFFFF");
+		});
+	});
+</script>
+
+
+
+<script type='text/javascript'>
+var pbt;
+var pbtDermatology;
+
+fireOrSaveGoogleAdFunctions(function(){
+googletag.cmd.push(function() {
+	
+
+	
+	// MNT_MREC_Right - #article_ad_1 - WRITTENS & PRESS RELEASES & ALL OTHER PAGES
+	var map_MNT_MREC_Right = googletag.sizeMapping().
+		addSize([1000, 10], [300, 250]). // 1000+ show one ad type
+		addSize([0, 0], [180, 150]). // up to 1000, show one ad type
+		build();
+	window.MNT_MREC_Right= googletag.defineSlot('/4788/MNT_MREC_Right', [300, 250], 'MNT_MREC_Right').
+	defineSizeMapping(map_MNT_MREC_Right).
+	setTargeting('main', ['psychology-psychiatry']).setTargeting('k1', ['othermentalhealth']).setTargeting('k2', ['mentalhealth']).setTargeting('k3', ['health']).setTargeting('uniq', ['10872']).setTargeting('msiteactive', ['False']).	addService(googletag.pubads());
+
+	
+
+	// MNT_Leaderboard_Top - #mnt_header_ad
+	var map_MNT_Leaderboard_Top = googletag.sizeMapping().
+		addSize([1000, 10], [[728, 90], [970, 90]]). // 1000+, show mixed ads
+		addSize([0, 0], [728, 90]). // up to 1000, show one ad type
+		build();
+	window.MNT_Leaderboard_Top= googletag.defineSlot('/4788/MNT_Leaderboard_Top', [728, 90], 'MNT_Leaderboard_Top').
+	defineSizeMapping(map_MNT_Leaderboard_Top).
+	setTargeting('main', ['psychology-psychiatry']).setTargeting('k1', ['othermentalhealth']).setTargeting('k2', ['mentalhealth']).setTargeting('k3', ['health']).setTargeting('uniq', ['10872']).setTargeting('msiteactive', ['False']).	addService(googletag.pubads());
+
+		
+	// MNT_600xFlex_Bottom - #mnt_article_ad_3 
+	var map_MNT_600xFlex_Bottom = googletag.sizeMapping().
+		addSize([1000, 10], [[300, 250], [336, 280], [600, 250], [600, 300]]). // 1000+, show mixed ads
+		addSize([0, 0], [[300, 250], [336, 280]]). // up to 1000, show one ad type
+		build();
+	window.MNT_600xFlex_Bottom= googletag.defineSlot('/4788/MNT_600xFlex_Bottom', [300, 250], 'MNT_600xFlex_Bottom').
+	defineSizeMapping(map_MNT_600xFlex_Bottom).
+	setTargeting('main', ['psychology-psychiatry']).setTargeting('k1', ['othermentalhealth']).setTargeting('k2', ['mentalhealth']).setTargeting('k3', ['health']).setTargeting('uniq', ['10872']).setTargeting('msiteactive', ['False']).	addService(googletag.pubads());
+
+	
+
+	// MNT_Flex_Right - #mnt_sidebar_ad_2 
+	var map_MNT_Flex_Right = googletag.sizeMapping().
+		addSize([1000, 10], [[160, 600], [300, 250], [300, 600]]). // 1000+, show mixed ads
+		addSize([0, 0], [160, 600]). // up to 1000, show one ad type
+		build();
+	window.MNT_Flex_Right= googletag.defineSlot('/4788/MNT_Flex_Right', [160, 600], 'MNT_Flex_Right').
+	defineSizeMapping(map_MNT_Flex_Right).
+	setTargeting('main', ['psychology-psychiatry']).setTargeting('k1', ['othermentalhealth']).setTargeting('k2', ['mentalhealth']).setTargeting('k3', ['health']).setTargeting('uniq', ['10872']).setTargeting('msiteactive', ['False']).	addService(googletag.pubads());
+
+	
+	//Intersitial ads define code
+	pbt=googletag.pubads().defineOutOfPagePassback("/6105/vrm.h_medicalnewstoday/*celgene_psa_120588-01_int_50");
+
+	pbtDermatology=googletag.pubads().defineOutOfPagePassback("/6105/vrm.h_medicalnewstoday/*celgene_pso_120589-01_int_50");
+});
+});
+
+</script>
+<script type="text/javascript">
+	var googleDegfaultAdVars = {"main":"'psychology-psychiatry'","k1":"'othermentalhealth'","k2":"'mentalhealth'","k3":"'health'","uniq":"'10872'","msiteactive":"'False'"};
+	var googleAdSlotInfo = [];
+</script>
+
+
+<!--Target old ads only-->
+<script type="text/javascript">
+var headerBiddingTargetOldAds = [];
+
+headerBiddingTargetOldAds.push({
+	slotID: "MNT_MREC_Right",
+	sizes: [[300,250],[180,150]]
+});
+
+	headerBiddingTargetOldAds.push({
+		slotID: "MNT_Leaderboard_Top",
+		sizes: [[728, 90], [970, 90]]
+	});
+
+	headerBiddingTargetOldAds.push({
+		slotID: "MNT_Flex_Right",
+		sizes: [[160, 600], [300, 250], [300, 600]]
+	});
+
+
+
+
+	headerBiddingTargetOldAds.push({
+		slotID: "MNT_600xFlex_Bottom",
+		sizes: [[300, 250], [336, 280], [600, 250], [600, 300]]
+	});
+
+
+</script>
+
+<!-- End of old ads area -->
+
+<script type='text/javascript'>
+//Page level targeting setup
+var adRPV = Math.floor(Math.random()*100)+1;
+adRPV = adRPV.toString();
+
+fireOrSaveGoogleAdFunctions(function(){
+googletag.cmd.push(function() {
+	googletag.pubads().setTargeting('rpv', adRPV);
+	googletag.pubads().enableAsyncRendering(); // enable async loading
+	// Disable initial load, we will use refresh() to fetch ads.
+	// Calling this function means that display() calls just
+	// register the slot as ready, but do not fetch ads for it.
+  	googletag.pubads().disableInitialLoad();
+  	googletag.pubads().enableSingleRequest();
+	//googletag.pubads().collapseEmptyDivs(); // if no ads loaded, kill their containers
+	googletag.enableServices();
+});
+});
+
+// check viewport for resize events and reload ads (1000ms delay)
+var resizeTimer;
+var width = window.innerWidth;
+
+function resizer() {
+	//Check to see if the width is changed 
+	var newWidth = window.innerWidth;
+	if (width != newWidth) {
+		// check if we've crossed a break point (only need to refresh if crossing the 1000px break point)
+		if (width >= 1000 && newWidth < 1000) {
+			
+			// DECREASE IN WIDTH
+			fireOrSaveGoogleAdFunctions(function() {
+				googletag.cmd.push(function () {
+					if (typeof window.MNT_DLB_Head !== "undefined") {
+						googletag.pubads().refresh([window.MNT_DLB_Head]);
+					}
+				});
+			});
+			
+			// send resize+refresh event
+			fireOrSaveJsFunctions(0,function() {ga('send', 'event', { eventCategory: 'Browser Width', eventAction: 'Resize / Shrink / Ad refresh', eventLabel: 'Resize / Shrink / Ad refresh'});});
+			
+		} else if (width < 1000 && newWidth >= 1000) {
+			
+			// INCREASE IN WIDTH
+			// 
+			if(typeof window.MNT_DLB_Head !== "undefined"){
+				googletag.pubads().refresh([window.MNT_DLB_Head]);	
+			}
+			
+			// send resize+refresh event
+			fireOrSaveJsFunctions(0,function() {ga('send', 'event', { eventCategory: 'Browser Width', eventAction: 'Resize / Grow / Ad refresh', eventLabel: 'Resize / Grow / Ad refresh'});});
+			
+		} else {
+			// send resize event
+			fireOrSaveJsFunctions(0,function() {ga('send', 'event', { eventCategory: 'Browser Width', eventAction: 'Resize / No ad refresh', eventLabel: 'Resize / No ad refresh'});});
+		}
+	}
+
+	width = newWidth;
+}
+
+window.addEventListener("resize", function(){ 
+	clearTimeout(resizeTimer);
+	resizeTimer = setTimeout(resizer, 1000);
+});
+
+</script>
+
+<!--New header bidding-->
+<script>
+		!function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+
+		var initParams = {
+			pubID: '3083',
+			adServer: 'googletag'
+		};
+
+
+		fireOrSaveJsFunctions(1,function(){
+
+			if (passEEACheck||(isEEA&&glob_mntcookie)) {
+				__cmp('getConsentData', null, function(vendorConsentData, success) {
+					
+					initParams.gdpr = { enabled: true, consent: vendorConsentData.metadata };
+					apstag.init(initParams);
+				});
+			} else {
+				apstag.init(initParams);
+			}
+
+
+		
+
+	 })
+
+</script>
+
+	
+
+
+	<script type="text/javascript">
+	this.top.location!==this.location&&(this.top.location=this.location);
+	</script>
+		<script type="text/javascript">
+
+			<!-- GA Universal Code 2014-08 (obfuscated) -->
+
+			eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('5(-1,2(){(2(i,s,o,g,r,a,m){i[\'c\']=r;i[r]=i[r]||2(){(i[r].q=i[r].q||[]).e(d)},i[r].l=1*j h();a=s.b(o),m=s.6(o)[0];a.7=1;a.8=g;m.9.k(a,m)})(y,A,\'z\',\'//x.n-3.t/3.u\',\'4\')});5(-1,2(){4(\'v\',\'p-w-1\',\'f\')});',37,37,'||function|analytics|ga|fireOrSaveJsFunctions|getElementsByTagName|async|src|parentNode||createElement|GoogleAnalyticsObject|arguments|push|auto||Date||new|insertBefore|||google||UA||||com|js|create|849615|www|window|script|document'.split('|')))
+
+
+	</script>
+		<script type="text/javascript">
+	/*
+	CSS Browser Selector v0.4.0 (Nov 02, 2010)
+	Rafael Lima (http://rafael.adm.br)
+	http://rafael.adm.br/css_browser_selector
+	License: http://creativecommons.org/licenses/by/2.5/
+	Contributors: http://rafael.adm.br/css_browser_selector#contributors
+	*/
+	function css_browser_selector(u){var ua=u.toLowerCase(),is=function(t){return ua.indexOf(t)>-1},g='gecko',w='webkit',s='safari',o='opera',m='mobile',h=document.documentElement,b=[(!(/opera|webtv/i.test(ua))&&/msie\s(\d)/.test(ua))?('ie ie'+RegExp.$1):is('firefox/2')?g+' ff2':is('firefox/3.5')?g+' ff3 ff3_5':is('firefox/3.6')?g+' ff3 ff3_6':is('firefox/3')?g+' ff3':is('gecko/')?g:is('opera')?o+(/version\/(\d+)/.test(ua)?' '+o+RegExp.$1:(/opera(\s|\/)(\d+)/.test(ua)?' '+o+RegExp.$2:'')):is('konqueror')?'konqueror':is('blackberry')?m+' blackberry':is('android')?m+' android':is('chrome')?w+' chrome':is('iron')?w+' iron':is('applewebkit/')?w+' '+s+(/version\/(\d+)/.test(ua)?' '+s+RegExp.$1:''):is('mozilla/')?g:'',is('j2me')?m+' j2me':is('iphone')?m+' iphone':is('ipod')?m+' ipod':is('ipad')?m+' ipad':is('mac')?'mac':is('darwin')?'mac':is('webtv')?'webtv':is('win')?'win'+(is('windows nt 6.0')?' vista':''):is('freebsd')?'freebsd':(is('x11')||is('linux'))?'linux':'','js']; c = b.join(' '); h.className += ' '+c; return c;}; css_browser_selector(navigator.userAgent);
+	</script>
+	<script type="text/javascript">
+var viewportWidth = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
+var viewportHeight = Math.max(document.documentElement.clientHeight, window.innerHeight || 0);
+
+	switch (true) {
+		case viewportWidth > 1360:
+			var viewportBreakpoint = 'Desktop - XL';
+			break;
+		case viewportWidth > 1200:
+			var viewportBreakpoint = 'Desktop - L';
+			break;
+		case viewportWidth > 1000:
+			var viewportBreakpoint = 'Desktop - M';
+			break;
+		default:
+			var viewportBreakpoint = 'Desktop - S';
+	}
+	
+fireOrSaveJsFunctions(0,function() {ga('set', 'dimension20', viewportBreakpoint);});
+
+fireOrSaveJsFunctions(0,function() {ga('set', {
+'dimension1': "no",
+'dimension2': "written",
+'dimension3': "Psychology / Psychiatry",
+'dimension5': "older",
+'dimension6': "desktop",
+'dimension8': "4",
+'dimension12': "2004-07-17",
+'dimension17': "7721",
+'dimension21': "1",
+'dimension23': "Mary Jo Fay",
+'dimension27': "1"
+});});
+
+if (window.devicePixelRatio) {
+	var pixelRatio = (window.devicePixelRatio >= 1.5) ? "HiDPI" : "1X";
+	fireOrSaveJsFunctions(0,function() {ga('set', 'dimension7', pixelRatio);});
+}
+
+	fireOrSaveJsFunctions(0,function() {ga('set', 'dimension10', viewportWidth);});
+	fireOrSaveJsFunctions(0,function() {ga('set', 'dimension11', viewportHeight);});
+	fireOrSaveJsFunctions(0,function() {ga('set', 'dimension16', 'None');});
+fireOrSaveJsFunctions(0,function() {ga('send', 'pageview');});
+
+setTimeout("fireOrSaveJsFunctions(0,function() {ga('send','event','Engagement Time','Engagement 030','10872')});",30000)
+setTimeout("fireOrSaveJsFunctions(0,function() {ga('send','event','Engagement Time','Engagement 040','10872')});",40000)
+setTimeout("fireOrSaveJsFunctions(0,function() {ga('send','event','Engagement Time','Engagement 050','10872')});",50000)
+setTimeout("fireOrSaveJsFunctions(0,function() {ga('send','event','Engagement Time','Engagement 060','10872')});",60000)
+setTimeout("fireOrSaveJsFunctions(0,function() {ga('send','event','Engagement Time','Engagement 070','10872')});",70000)
+setTimeout("fireOrSaveJsFunctions(0,function() {ga('send','event','Engagement Time','Engagement 080','10872')});",80000)
+setTimeout("fireOrSaveJsFunctions(0,function() {ga('send','event','Engagement Time','Engagement 090','10872')});",90000)
+setTimeout("fireOrSaveJsFunctions(0,function() {ga('send','event','Engagement Time','Engagement 100','10872')});",100000)
+setTimeout("fireOrSaveJsFunctions(0,function() {ga('send','event','Engagement Time','Engagement 110','10872')});",110000)
+setTimeout("fireOrSaveJsFunctions(0,function() {ga('send','event','Engagement Time','Engagement 120','10872')});",120000)
+setTimeout("fireOrSaveJsFunctions(0,function() {ga('send','event','Engagement Time','Engagement 130','10872')});",130000)
+setTimeout("fireOrSaveJsFunctions(0,function() {ga('send','event','Engagement Time','Engagement 140','10872')});",140000)
+setTimeout("fireOrSaveJsFunctions(0,function() {ga('send','event','Engagement Time','Engagement 150','10872')});",150000)
+</script>
+<script>
+	fireOrSaveJsFunctions(1,function() {
+
+		var _qevents = _qevents || [];
+
+		(function() {
+			var elem = document.createElement('script');
+			//elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+			elem.src = (document.location.protocol == "https:" ? "https://" : "http://") + "cdn1.medicalnewstoday.com/structure/javascript/cache/quant.js";
+			elem.async = true;
+			elem.type = "text/javascript";
+			var scpt = document.getElementsByTagName('script')[0];
+			scpt.parentNode.insertBefore(elem, scpt);
+		})();
+
+		_qevents.push({
+			qacct:"p-v03RmX3GES6RT"
+		});
+	});
+
+
+</script>
+
+<script>
+	fireOrSaveJsFunctions(1,function() {
+
+		window._comscore = window._comscore || [];
+		window._comscore.push({ c1: "2", c2: "19983957" });
+		(function() {
+			var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+			//s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+			s.src = (document.location.protocol == "https:" ? "https://" : "http://") + "cdn1.medicalnewstoday.com/structure/javascript/cache/beacon.js";
+			el.parentNode.insertBefore(s, el);
+		})();
+
+	})
+
+</script>
+<noscript>
+  <img class="no_js" src="https://sb.scorecardresearch.com/p?c1=2&c2=19983957&cv=2.0&cj=1" />
+</noscript>
+
+<script>
+
+
+	fireOrSaveJsFunctions(1,function() {
+
+		!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+			n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+			n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+			t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+			document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+		fbq('init', '1039134266174910');
+		fbq('track', "PageView");
+
+		fbq('track', 'ViewContent');
+
+	});
+
+
+</script>
+
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1039134266174910&ev=PageView&noscript=1"
+/></noscript>
+
+<!-- Source: /controltag?confid=qqeynsltk&site=medical%20news%20today&edit=1 -->
+<script class="kxct" data-id="qqeynsltk" data-timing="async" data-version="1.9" type="text/javascript">
+	fireOrSaveJsFunctions(1,function() {
+		window.Krux || ((Krux = function () {
+			Krux.q.push(arguments)
+		}).q = []);
+		(function () {
+			var k = document.createElement('script');
+			k.type = 'text/javascript';
+			k.async = true;
+			var m, src = (m = location.href.match(/\bkxsrc=([^&]+)/)) && decodeURIComponent(m[1]);
+			k.src = /^https?:\/\/([a-z0-9_\-\.]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :
+			(location.protocol === "https:" ? "https:" : "http:") + "//cdn.krxd.net/controltag?confid=qqeynsltk";
+			var s = document.getElementsByTagName('script')[0];
+			s.parentNode.insertBefore(k, s);
+		}());
+	});
+</script>
+
+<!-- Facebook Pixel Code -->
+<script>
+
+	fireOrSaveJsFunctions(1,function() {
+
+		!function (f, b, e, v, n, t, s) {
+			if (f.fbq)return;
+			n = f.fbq = function () {
+				n.callMethod ?
+					n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+			};
+			if (!f._fbq)f._fbq = n;
+			n.push = n;
+			n.loaded = !0;
+			n.version = '2.0';
+			n.queue = [];
+			t = b.createElement(e);
+			t.async = !0;
+			t.src = v;
+			s = b.getElementsByTagName(e)[0];
+			s.parentNode.insertBefore(t, s)
+		}(window,
+			document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+
+		fbq('init', '1039134266174910');
+		fbq('track', "PageView");
+	});
+</script>
+
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1039134266174910&ev=PageView&noscript=1"
+/></noscript>
+
+<script type="text/javascript">var monetateT = new Date().getTime();</script>
+
+
+<script>
+
+	fireOrSaveJsFunctions(1,function(){loadScript(
+		"//se.monetate.net/js/2/a-563f897b/p/medicalnewstoday.com/entry.js",
+		{},
+		function(){
+
+			
+			window.monetateQ = window.monetateQ || [];
+			window.monetateQ.push(["setPageType", "article"]);
+			//Need to remove single quote
+			window.monetateQ.push(["addCategories", ["psychology-psychiatry"]]);
+			window.monetateQ.push(["addBreadcrumbs", ["Narcissism Victim Syndrome, A New Diagnosis?"]]);
+			window.monetateQ.push(["addProductDetails", ["10872"]]);
+			window.monetateQ.push(["trackData"]);
+
+
+		})
+	});
+
+</script>
+
+
+
+<!--Moat content code-->
+<script>
+
+	fireOrSaveJsFunctions(1,function(){
+
+		(function(){function t(){for(var a=[8],e=1;2>=e;e++)a.push(8+e),a.push(8-e);a=a[Math.floor(Math.random()*a.length)];return{b:a,a:0==Math.floor(Math.random()*a)}}function k(a){var e=a=a.replace(":","");try{for(var b=0;100>b&&(a=decodeURIComponent(a),e!=a)&&!a.match(/^http(s)?\:/);b++)e=a}catch(c){}return a.replace(/(^\s+|\s+$)/g,"")}try{if(!location||!location.hostname||!location.pathname)return!1;var c=document.location.hostname.replace(/^www\./,""),u=function(){for(var a,b=document.getElementsByTagName("meta"),
+																																																																																																																								   c,d=0,f=b.length;d<f;d++)if(c=b[d],"og:title"===c.getAttribute("property")){a=c.getAttribute("content");break}a||(a=document.title||"Untitled");return a}(),b={},b=function(a,b,c){a.l1=b;a.l2=c;a.l3="__page__";a.l4="-";return a}(b,c,u),l=(new Date).getTime(),m=Math.floor(Math.random()*Math.pow(10,12)),d,f;f=t();f.a?d=f.b:d=0;b.zmoatab_cm=d;b.t=l;b.de=m;b.zMoatAB_SNPT=!0;var g;d?g=d:g=1;var n;n=f?f.a?!0:!1:!0;var c=[],p=[k(b.l1),k(b.l2),k(b.l3),k(b.l4)].join(":"),v="https://wve3oiypgri4-a.akamaihd.net/z.gif?e=17&d="+
+			encodeURIComponent(p)+"&de="+m+"&t="+l+"&i=HEALTHLINECONTENT1&cm="+g+"&mp=1&ac=1&pl=1&bq=10&vc=2&cs=0",w="https://px.moatads.com/pixel.gif?e=17&d="+encodeURIComponent(p)+"&de="+m+"&t="+l+"&i=HEALTHLINECONTENT1&cm="+g+"&mp=0&ac=1&pl=1&bq=10&ad_type=img&vc=2&cs=0",x="https://px.moatads.com/pixel.gif?e=17&d="+encodeURIComponent(p)+"&de="+m+"&t="+l+"&i=HEALTHLINECONTENT1&cm="+g+"&ku=1&ac=1&pl=1&bq=10&ad_type=img&vc=2&cs=0";n&&((new Image).src=v,(new Image).src=w);for(var q in b)c.push(q+"="+encodeURIComponent(b[q]));
+			var c=c.join("&"),c=c+"&vc=2",h=document.createElement("script");h.type="text/javascript";h.async=!0;n&&(h.onerror=function(){(new Image).src=x});var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(h,r);h.src="https://z.moatads.com/healthlinecontent451781663455/moatcontent.js#"+c}catch(a){try{var y="//pixel.moatads.com/pixel.gif?e=24&d=data%3Adata%3Adata%3Adata&i=MOATCONTENTABSNIPPET1&vc=2&ac=1&k="+encodeURIComponent(a)+"&j="+encodeURIComponent(document.referrer)+"&cs="+(new Date).getTime();
+			(new Image).src=y}catch(e){}}})();
+
+
+	});
+
+</script>
+</head>
+<body id="written" class="article v1 lang_en">
+<div itemscope="" itemtype="http://schema.org/NewsArticle">
+
+
+
+
+
+
+
+<noscript>
+<div class="header_message enable_js error">
+<p>For full functionality, it is necessary to enable JavaScript. Here are <a href="http://www.enable-javascript.com" target="_blank">instructions how to enable JavaScript</a> in your web browser.</p>
+</div>
+
+
+<div class="fullscreen_outer">
+	<div class="fullscreen_inner">
+		<h5>Welcome to Medical News Today</h5>
+		<p>
+			Healthline Media, Inc. would like to process and share personal data (e.g., mobile ad id) and data about your use of our site (e.g., content interests) with our third party partners (see a <a href="https://www.medicalnewstoday.com/privacy-policy#vendors" target="_blank">current list</a>) using cookies and similar automatic collection tools in order to a) personalize content and/or offers on our site or other sites, b) communicate with you upon request, and/or c) for additional reasons upon notice and, when applicable, with your consent.</p>
+		<p>
+			Healthline Media, Inc. is based in and operates this site from the United States. Any data you provide will be primarily stored and processed in the United States, pursuant to the laws of the United States, which may provide lesser privacy protections than European Economic Area countries.
+		</p>
+		<p>
+			By clicking “accept” below, you acknowledge and grant your consent for these activities unless and until you withdraw your consent using our <a href="https://www.healthline.com/rights-request" target="_blank">rights request form</a>. Learn more in our <a href="https://www.medicalnewstoday.com/privacy-policy" target="_blank">Privacy Policy</a>.
+		</p>
+	</div>
+</div>
+
+
+</noscript>
+<div id="header_message" class="new_menu">
+<input type="hidden" id="is_usermobile" name="is_usermobile" value="0">
+
+
+
+
+
+ 
+</div>
+
+<div id="navigation" class="container default_menu new_menu">
+
+	<div class="row">
+
+		<nav role="navigation" class="main_nav">
+		
+			<ul class="main_nav left"> 	
+				<li class="menu_topics">
+					<a href="#"></a>
+		
+					
+<div class="menu_panel fullscreen_outer topics">
+  <div class="menu_panel fullscreen_inner">
+    <div class="row">
+					
+					
+					<div class="topics">
+												
+							<div class="menu_topic_container">
+							
+								<ul class="topic_headings">
+									<li class="topic_headings_top"><span>Top categories</span>
+										<ul class="topic_popular_list">
+											<li><a href="/categories/blood">Blood / Hematology</a></li>
+<li><a href="/categories/bones">Bones / Orthopedics</a></li>
+<li><a href="/categories/breast_cancer">Breast Cancer</a></li>
+<li><a href="/categories/colorectal_cancer">Colorectal Cancer</a></li>
+<li><a href="/categories/depression">Depression</a></li>
+<li><a href="/categories/gastrointestinal">GastroIntestinal</a></li>
+<li><a href="/categories/hypertension">Hypertension</a></li>
+<li><a href="/categories/lymphoma">Lymphoma</a></li>
+<li><a href="/categories/mens_health">Men's Health</a></li>
+<li><a href="/categories/neurology">Neurology / Neuroscience</a></li>
+<li><a href="/categories/nutrition-diet">Nutrition / Diet</a></li>
+<li><a href="/categories/pain">Pain / Anesthetics</a></li>
+<li><a href="/categories/prostate">Prostate / Prostate Cancer</a></li>
+<li><a href="/categories/psoriasis">Psoriasis</a></li>
+<li><a href="/categories/respiratory">Respiratory</a></li>
+<li><a href="/categories/sexual_health">Sexual Health / STDs</a></li>
+<li><a href="/categories/stroke">Stroke</a></li>
+<li><a href="/categories/tuberculosis">Tuberculosis</a></li>
+<li><a href="/categories/urology-nephrology">Urology / Nephrology</a></li>
+<li><a href="/categories/womens_health">Women's Health</a></li>
+										</ul> 	
+									</li>
+																											
+									<li class="topic_headings_all"><span>All categories</span>
+										<ul class="topic_all_list">
+											<li><a href="/categories#a">A - B</a></li>
+											<li><a href="/categories#c">C - D</a></li>
+											<li><a href="/categories#e">E - G</a></li>
+											<li><a href="/categories#h">H - L</a></li>
+											<li><a href="/categories#m">M - O</a></li>
+											<li><a href="/categories#p">P - R</a></li>
+											<li><a href="/categories#s">S - Z</a></li>
+											<li><a href="/categories">All Topics</a></li>
+										</ul>	
+									</li>
+																																				
+									<li class="topic_headings_custom"><span>Your MNT</span>
+																							<ul class="topic_custom_list">										
+													<h4>Not a member yet?</h4>
+													<p>Get the most out of Medical News Today. Subscribe to our Newsletter to recieve:</p>
+														<ul>
+															<li>Professionally-verified articles</li>
+															<li>Daily or weekly updates</li>
+															<li>Content custom-tailored to your needs</li>
+														</ul>
+													<button class="sign_up menu_signup_button new_reg_signup">Create an account</button>
+												</ul>
+																						</li>																		
+								</ul> 	
+									
+							</div> 	
+						
+							<div class="menu_cta_container">
+							
+									<span>More</span>	
+																		
+									<ul class="topic_more_list">
+										<li class="menu_newsletter_cta"><a href="#" class="new_reg_signup menu_item_link"><span class="icon_container"></span>Sign up for our newsletter</a></li>
+										<li class="menu_discover_cta"><a href="/knowledge-center"><img src="https://cdn1.medicalnewstoday.com/structure/images/logo/logo-menu-cta-2017.png" height="15" width ="34"/>Discover in-depth, condition specific articles written by our in-house team.</a></li>
+																			</ul> 	
+	
+							</div> 	
+			
+			
+											
+					</div> 	
+					</div> 	
+					</div> 	
+											
+											
+											
+					</div> 	
+			  
+				</li> 	
+				
+		  							<li class="menu_newsletter">
+						<a href="#" class="menu-newsletter-link new_reg_signup"><div>Newsletter</div></a>
+					</li> 	
+		  						
+			</ul>
+				
+			<div class="logo">
+				<a href="/" accesskey="h" title="Medical News Today : Home">
+					<img src="https://cdn1.medicalnewstoday.com/structure/images/logo/logo-2017-640-60.png" alt="MNT home">
+					<p>MNT - Hourly Medical News Since 2003</p>
+				</a>
+			</div> 	
+				
+			<ul class="main_nav right"> 	
+
+			<div id="search_area">
+
+
+<div id="searchwrapper" class="">
+
+
+
+<div class="search_trigger">
+
+<form id="searchFormHeader" action="/search" >
+<input type="text" id="header_search" placeholder="" class="searchbox" name="q" maxlength="150" autocomplete="off"/>
+<button class="screen_only black float_right" id="header_search_button" type="submit" id="" title="Search MNT" value="">Search</button>
+<button class="mobile_only blue float_right" id="header_search_button" type="submit" title="Search MNT" value="">Go</button>
+<input type="hidden" name="p" value="1" />
+</form>
+
+
+
+</div>
+	
+
+</div>
+</div>	
+							
+								
+				<li class="menu_login">
+					<a href="#" id="menu_login_link" >
+						<div>
+						Log in						</div>
+					</a>
+				</li>
+			</ul>
+		</nav>	
+
+	</div> 	
+
+</div> 
+<div id="navigation_scroll" class="container light  ">
+
+<div class="row">
+
+<nav id="subnavigation">
+
+			<ul class="main_nav left"> 	
+				<li class="menu_topics">
+					<a href="#"></a>
+		
+					
+<div class="menu_panel fullscreen_outer topics">
+  <div class="menu_panel fullscreen_inner">
+    <div class="row">
+					
+					
+					<div class="topics">
+												
+							<div class="menu_topic_container">
+							
+								<ul class="topic_headings">
+									<li class="topic_headings_top"><span>Top categories</span>
+										<ul class="topic_popular_list">
+											<li><a href="/categories/blood">Blood / Hematology</a></li>
+<li><a href="/categories/bones">Bones / Orthopedics</a></li>
+<li><a href="/categories/breast_cancer">Breast Cancer</a></li>
+<li><a href="/categories/colorectal_cancer">Colorectal Cancer</a></li>
+<li><a href="/categories/depression">Depression</a></li>
+<li><a href="/categories/gastrointestinal">GastroIntestinal</a></li>
+<li><a href="/categories/hypertension">Hypertension</a></li>
+<li><a href="/categories/lymphoma">Lymphoma</a></li>
+<li><a href="/categories/mens_health">Men's Health</a></li>
+<li><a href="/categories/neurology">Neurology / Neuroscience</a></li>
+<li><a href="/categories/nutrition-diet">Nutrition / Diet</a></li>
+<li><a href="/categories/pain">Pain / Anesthetics</a></li>
+<li><a href="/categories/prostate">Prostate / Prostate Cancer</a></li>
+<li><a href="/categories/psoriasis">Psoriasis</a></li>
+<li><a href="/categories/respiratory">Respiratory</a></li>
+<li><a href="/categories/sexual_health">Sexual Health / STDs</a></li>
+<li><a href="/categories/stroke">Stroke</a></li>
+<li><a href="/categories/tuberculosis">Tuberculosis</a></li>
+<li><a href="/categories/urology-nephrology">Urology / Nephrology</a></li>
+<li><a href="/categories/womens_health">Women's Health</a></li>
+										</ul> 	
+									</li>
+																											
+									<li class="topic_headings_all"><span>All categories</span>
+										<ul class="topic_all_list">
+											<li><a href="/categories#a">A - B</a></li>
+											<li><a href="/categories#c">C - D</a></li>
+											<li><a href="/categories#e">E - G</a></li>
+											<li><a href="/categories#h">H - L</a></li>
+											<li><a href="/categories#m">M - O</a></li>
+											<li><a href="/categories#p">P - R</a></li>
+											<li><a href="/categories#s">S - Z</a></li>
+											<li><a href="/categories">All Topics</a></li>
+										</ul>	
+									</li>
+																																				
+									<li class="topic_headings_custom"><span>Your MNT</span>
+																							<ul class="topic_custom_list">										
+													<h4>Not a member yet?</h4>
+													<p>Get the most out of Medical News Today. Subscribe to our Newsletter to recieve:</p>
+														<ul>
+															<li>Professionally-verified articles</li>
+															<li>Daily or weekly updates</li>
+															<li>Content custom-tailored to your needs</li>
+														</ul>
+													<button class="sign_up menu_signup_button new_reg_signup">Create an account</button>
+												</ul>
+																						</li>																		
+								</ul> 	
+									
+							</div> 	
+						
+							<div class="menu_cta_container">
+							
+									<span>More</span>	
+																		
+									<ul class="topic_more_list">
+
+										<li class="menu_newsletter_cta"><a href="#" class="new_reg_signup menu_item_link"><span class="icon_container"></span>Sign up for our newsletter</a></li>
+										<li class="menu_discover_cta"><a href="/knowledge-center"><img src="https://cdn1.medicalnewstoday.com/structure/images/logo/logo-menu-cta-2017.png" height="15" width ="34"/>Discover in-depth, condition specific articles written by our in-house team.</a></li>
+																			</ul> 	
+	
+							</div> 	
+			
+			
+											
+					</div> 	
+					</div> 	
+					</div> 	
+											
+											
+											
+					</div> 	
+			  
+				</li> 	
+		  							<li class="menu_newsletter">
+						<a href="#" class="menu-newsletter-link new_reg_signup"><div>Newsletter</div></a>
+					</li> 	
+		  						
+			</ul>
+				
+			<div class="logo">
+				<a href="/" accesskey="h" title="Medical News Today : Home">
+					<img src="https://cdn1.medicalnewstoday.com/structure/images/logo/logo-2017-640-60.png" alt="MNT home">
+					<p>MNT - Hourly Medical News Since 2003</p>
+				</a>
+			</div> 	
+				
+			<ul class="main_nav right"> 	
+				
+					
+
+			<div id="search_area">
+
+
+<div id="searchwrapper" class="">
+
+
+
+<div class="search_trigger">
+
+<form id="searchFormHeader" action="/search" >
+<input type="text" id="header_search" placeholder="" class="searchbox" name="q" maxlength="150" autocomplete="off"/>
+<button class="screen_only black float_right" id="header_search_button" type="submit" id="" title="Search MNT" value="">Search</button>
+<button class="mobile_only blue float_right" id="header_search_button" type="submit" title="Search MNT" value="">Go</button>
+<input type="hidden" name="p" value="1" />
+</form>
+
+
+
+</div>
+	
+
+</div>
+</div>	
+							
+								
+				<li class="menu_login">
+					<a href="#" id="menu_login_link" >
+						<div>
+						Login						</div>
+					</a>
+						
+				</li>				
+			</ul>
+		
+		</nav>	
+
+	</div> 	
+
+</div> <div class="modal fade" id="picModal" tabindex="-1" role="dialog" style="z-index: 1040; padding-left:0;">
+	<div class="modal-dialog" role="document">
+		<div class="modal-content" style="">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"></button>
+
+			</div>
+			<div class="modal-body" style="text-align: center;">
+
+				<div id="picModal-loading-animation">
+
+					<i class="fa fa-circle-o-notch fa-spin fa-3x fa-fw"></i>
+					<span class="sr-only">Loading...</span>
+
+				</div>
+
+
+				<span class="helper" style="display: inline-block;height: 100%;vertical-align: middle;"></span> <img id="origin-img" src="">
+
+			</div>
+
+		</div>
+	</div>
+</div>
+
+
+<div class="modal fade site_modal modal_gdpr" tabindex="-1" role="dialog" aria-hidden="true" id="gdprModal" data-backdrop="static" data-keyboard="false">
+	<div class="modal-dialog" role="document">
+
+		<div class="modal-content">
+
+			<div class="modal-header">
+			</div>
+
+			<div class="modal-body container" onscroll="modalScroll()">
+				<div class="fullscreen_outer article_header">
+					<div class="fullscreen_inner">
+						<h5>Please accept our privacy terms</h5>
+						<p>
+							We use cookies and similar technologies to improve your browsing experience, personalize content and offers, show targeted ads, analyze traffic, and better understand you. We may share your information with third-party partners for marketing purposes. To learn more and make choices about data use, visit our <a href="https://www.medicalnewstoday.com/advertising" target="_blank">Advertising Policy</a> and <a href="https://www.medicalnewstoday.com/privacy-policy" target="_blank">Privacy Policy</a>. By clicking “Accept and Continue” below, (1) you consent to these activities unless and until you withdraw your consent using our rights request form, and (2) you consent to allow your data to be transferred, processed, and stored in the United States.
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="modal-footer container gradient">
+				<div class="article_header">
+					<button class="primary" onclick="GDPRAccept()">ACCEPT AND CONTINUE TO SITE</button>
+					<button class="secondary" onclick="confirmDeny()">Deny permission</button>
+				</div>
+			</div>
+
+		</div>
+		<div class="scroll_more hidden">
+			<button class="primary" onclick="scrollAccept()">Scroll to Accept</button>
+		</div>
+
+	</div>
+</div>
+
+
+<div class="modal fade modal_login_panel" tabindex="-1" role="dialog" aria-hidden="true">
+	<div class="modal-dialog" role="document">   	  
+	<div class="modal-content" id="modal_login_panel">
+		<div class="modal-header">
+			<button type="button" class="close" data-dismiss="modal"></button>
+		</div>
+		<div class="modal-body">
+			<div class="menu_panel fullscreen_outer account">
+				<div class="menu_panel fullscreen_inner">
+					<div class="row">
+						<div class="login_list">
+						
+							<div class="login_container">
+								<div class="register">
+									<h2>Sign in</h2>
+									<p>Log in with your Medical News Today account to create or edit your custom homepage, catch-up on your opinions notifications and set your newsletter preferences.</p>
+																										
+									<a href="/account/"><button class="log_in float_left secure" name="login" type="submit">Sign in</button></a>
+									
+
+								</div>										
+								<div class="login_form">
+									<h3>Register for a free account</h3>
+									<p>Sign up for a free Medical News Today account to customize your medical and health news experiences.</p>
+										<button class="sign_up menu_signup_button new_reg_signup">Register</button>
+									<div class="login_tour">
+										<a class="" href="/tour">take the tour</a>
+									</div> 	
+								</div> 									
+							</div> 	
+						</div> 	
+					</div> 	
+				</div> 	
+			</div> 		</div>	</div>	</div></div>
+
+
+
+
+
+
+
+
+
+<hr class="header_bar">
+
+<div class="container"> 
+
+<div class="row site_header"> 
+
+<article  >
+
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 article_header"> 		<!-- Leaderboard BANNER advert -->
+
+<div id="mnt_dlb_head_container" class="mnt leaderboard" > 
+
+<!-- header_ad code -->
+<div class="mnt_history" style="display:none;">
+
+	<a href="/whitelist-mnt"><img src="https://cdn1.medicalnewstoday.com/structure/images/mnt_ads/mnt_history_leaderboard.png" alt="Thank you for supporting Medical News Today"/></a>
+
+
+</div>
+    <div id='mnt_dlb_head_unit' adonis-marker>
+	<script type='text/javascript'>
+		googleAdSlotInfo.push({
+			"slotName":'MNT_DLB_Head',
+			"slotContainer":'mnt_dlb_head_container'		});
+	</script>
+	</div>
+	</div> <!-- /header_ad code -->
+<h1 itemprop="headline">Narcissism Victim Syndrome, A New Diagnosis?</h1>
+
+</div> 	<div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 main_content"> 	<div id="article_date">
+				<span class="date_published screen_only">Published			<time itemprop="datePublished" datetime="2004-07-17">
+			Saturday 17 July 2004			</time>
+			</span>
+			
+			<span class="date_published mobile_only">Published			Sat 17 Jul 2004			</span>
+				</div>
+		<div class="author_top">
+	<span class='author_byline'>By Mary Jo Fay</span>	</div>
+	<span class="clearfix"></span>
+
+<div class="article_body">
+	<div itemprop="articleBody">
+	<p>Do you see a preponderance of middle aged women in your practices with no particular physical disease process, yet a variety of physical and/or emotional complaints, including: <a href="/articles/9155.php" title="What is insomnia? What causes insomnia?" class="keywords">insomnia</a>, weight loss or gain, <a href="/articles/8933.php" title="What is depression? What causes depression?" class="keywords">depression</a>, <a href="/info/anxiety/" title="What is Anxiety?" class="keywords">anxiety</a>, <a href="/articles/249347.php" title="What is a phobia? What causes phobia?" class="keywords">phobias</a>, broken bones, lacerations, or bruises? Some may report an overwhelming feeling of emptiness or doom. Others may talk about or attempt suicide. <br><br>
+
+These patients are frequently rather nervous, with a guilt-ridden, anxious look and effect. They may appear restless, worried, and/or demonstrate a fake laugh that seems to hide something else. <br><br>
+
+In extreme cases they may describe sudden outbursts of rage with accompanying violence. They may have even been arrested for assault on their spouse. A few of them are men. <br><br>
+
+Who are these patients and how did they get this way? While there may be many situations with similar symptoms, it is important to recognize these may be "<b>Victims of Narcissists</b>" and they need your help. While narcissism itself has been a diagnosis in the DSM - IV, psychiatry's complete reference, little to nothing has been written in the medical literature surrounding those who live with the narcissist - and the torturous lives they live. And there are many of them out there. <br><br>
+
+Narcissism is a broad spectrum of behaviors. On a scale of 1 - 10, Healthy Narcissism is a one, and Pathological Narcissism, or <a href="/articles/9741.php">Narcissistic Personality Disorder</a>, (NPD) is a 10. <br><br>
+
+Healthy Narcissism is something we all can use. It's having a healthy self-esteem. It's what makes us pick ourselves up after experiencing failure and going on towards the next goal. It's what gives us the ability to help each other, and to love someone - as we already know how to love ourselves. <br><br>
+
+Yet, Pathological Narcissism is an ironic twist of this healthy state. Outwardly, it appears that these people love themselves too much - to the exclusion of anyone else. It is as if they are God himself and those around them must recognize their omnipotence, supreme knowledge, and absolute entitlement and power. Rules don't apply to them. They have an unrealistic and overblown sense of self, often without the credentials to match, as well as fantasies of unlimited power, success, and/or brilliance. They are interpersonally exploitive and have absolutely no understanding of empathy or compassion. <br><br>
+
+They are neither kind nor benevolent gods. And those who live with them end up paying the price. <br><br>
+
+While there is a range of narcissistic behaviors lying between level 1 and 10 on this scale, one doesn't need to have full-blown NPD to do incredible damage to those in the inner circle. <br><br>
+
+While victims of Narcissists are generally codependents, most have no idea how they got in this situation, because in the early stages of the relationship the Narcissistic person can be the most charming, Academy Award winning actor or actress (according to the DSM-IV, 50-75% of narcissists are men), of the century. <br><br>
+
+The early days of the dating is fast, furious, and vastly romantic. Oftentimes marriage proposals come within a few weeks. The "victim" sees the narcissist as the "Perfect Partner". She's never met someone so wonderful in her lifetime and falls head-over-heels in love. The two go on to live happily ever after - or so she thinks - until the "real" partner surfaces. The once wonderful Dr. Jekyll turns into the dangerous Mr. Hyde who quickly instills fear, anxiety, uncertainty, and total confusion to the relationship. <br><br>
+
+The change can be quick and powerful or slow and insidious. <br><br>
+
+We are all way too familiar with overt narcissists: those abusive husbands who send thousands of battered women to the emergency room each year. They feel it is their God-given right to beat, abuse, and otherwise threat their partner in whatever method they deem necessary and no one can tell them otherwise. <br><br>
+
+Then there is the verbally abusive and controlling narcissist - the one who uses emotional abuse as his weapon of choice. He tells his victim who she can see, what time she needs to be home, and when she can go to bed. Or in the case of Jamie, whose husband makes her recite every day, "I'm only worth 29 cents - the price of a bullet," he erodes her self-worth to nothing to keep her under his control. <br><br>
+
+Who else could possible want such a worthless woman as she? With that belief, she will never leave him for good, although she makes many brief attempts to do so. She always returns. The brainwashing that continues day after day is emotionally exhausting, draining, and vastly unhealthy. <br><br>
+
+Yet almost worse is the "Stealth Narcissist," so sinister and silent in his ability to drive his partner crazy that she doesn't suspect anything bad is happening until it's too late. He is the master of the little digs - "Honey, why on earth would you cook eggs in butter? NO ONE does it that way. What's wrong with you?" Or, "If you'd only do what I say then we'd both be happy." <br><br>
+
+He issues the "silent treatment" when he is slighted, punishing his family by ignoring them for hours, leaving them wondering what they did "wrong" to make him act this way. He may "forget" birthday or Christmas presents, year after year. He may show up hours late and his partner is just supposed to understand, with no explanation even offered. He may have another woman on the side and feel quite entitled to do so. <br><br>
+
+Yet, to those outside his inner kingdom he looks like a saint. He probably is president of the Rotary, volunteers at a food bank, and contributes regularly to charity - all to attain the image of being the admired Superman of his community. <br><br>
+
+No matter which type of narcissist he is, the end result is the same - a slow, insidious, breaking down of the self-esteem of his victims until there's next to nothing left, at which point, the narcissist will frequently throw his partner out in order to look for someone new and full of life to make his next target. Leaving his victim an emotional wreck wondering what she did to destroy their once "perfect" relationship. <br><br>
+
+The Narcissist himself rarely changes. After all, if you believe you're God-like, you must be perfect. Why should you change your behavior for anyone else? Yet the biggest secret is that deep inside, he loathes himself, and is desperate that no one find out who the "real" person is inside his tough, outer shell. <br><br>
+
+Victims are not only spouses. They can be coworkers, employees, children, or friends of narcissists. When the narcissist is the victim's mother, it's a difficult spot to be in, as most children (even grown children) find it almost impossible to leave the relationship. And the abuse continues for years. <br><br>
+
+However, when the narcissist is your patient's boss, coworker, or friend, it may be wise to counsel the victim to seek a new situation elsewhere to best avoid an emotional roller coaster ride that could lead to extreme health issues down the road. <br><br>
+
+How can you help those with Narcissism Victim Syndrome? First, by asking questions to determine what is going on in their environment. Health care professionals already know the effect that <a href="/articles/145855.php" title="What is stress? How to deal with stress" class="keywords">stress</a> has on so many of us, but the added stress of living with a narcissist is rarely understood or recognized by the victims themselves. Knowledge is power and by asking the right questions about their situation, you might be able to help them begin to better recognize their problem and seek help. <br><br>
+
+You can help them quit being victims, quit blaming themselves for all that's wrong in their relationships, gain knowledge of this disorder, and regain their personal power. Help them to seek counseling from a therapist knowledgeable about narcissism, (not all are, and few fully understand victim issues at all), in order to rebuild their shattered self-esteem and stop looking and acting like a caged animal. <br><br>
+
+Help them find hope, before years of stuffing their anger due to this abusive treatment, leads them to venting in unhealthy ways, sometimes leading to domestic violence and police intervention. Help them to stop looking like the sick one in the relationship and to start down the road of being a survivor and no longer a victim.  Help them escape symptoms of depression that may, in some cases, lead to suicide. <br><br>
+
+Learn all you can about the "<b>Narcissism Victim Syndrome</b>". You might light a glimmer of hope for someone who's just barely hanging on for dear life. <br><br>
+
+Written by Mary Jo Fay, RN, MSN, a national speaker, author, columnist and survivor of several narcissistic relationships. Her new book, "When Your Perfect Partner Goes Perfectly Wrong - Loving or Leaving the Narcissist in Your Life" is available at <a href="http://www.helpfromsurvivors.com" target="_blank" rel="noopener">http://www.helpfromsurvivors.com</a></p> 	</div> 	</div> 
+<style type="text/css">
+		/*.mnt_dlb_foot_container { display:block; width: 728px; height: 90px; }*/
+		/*@media (min-width: 990px) { .mnt_dlb_foot_container { display: none; } }
+		@media (min-width:1148px) { .mnt_dlb_foot_container { display:block;} }*/
+</style>
+	<!-- MNT_Desktop Leaderboard -->
+<ins class="adsbygoogle mnt_dlb_foot_container"
+		id="mnt_dlb_foot_container"
+	    data-ad-client="ca-pub-1971793357249522"
+	    data-ad-slot="8084911109" style="display:block; width: 728px; height: 90px;"></ins>
+
+
+<script>
+
+
+	fireOrSaveJsFunctions(1,function(){loadScript(
+		"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+		{},
+		function(){}
+
+	)});
+
+
+</script>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+<p id='slidebox_trigger'></p>
+
+	<div id="suggest_reading_outer_container" class="place full">
+
+		<h2 class="suggested_reading internal_related">Related coverage</h2>
+	<span></span>
+		<!--<h2 class="suggested_reading">Suggested Reading</h2>-->
+	
+	<div itemscope itemtype="http://schema.org/WebPage"> <!-- suggested_reading_container_parent -->
+	<div class="suggested_reading_container ">
+				<div class='suggested_reading_inner column1'>
+				<div class="suggested_item">
+		<a href="/articles/320913.php?sr" title="Will your partner cheat? Look out for these signs">
+		<div class="suggested_item_image">
+			<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAQAAAAe/WZNAAAADklEQVR42mNkgAJGDAYAAFEABCaLYqoAAAAASUVORK5CYII=" data-src="https://cdn1.medicalnewstoday.com/content/images/hero/320/320913/320913_1100.jpg" alt="" />
+		</div>
+		<span class="title">Will your partner cheat? Look out for these signs</span>
+		<span class="summary">Is there a way to predict whether someone is likely to cheat on their romantic partner? New research says that there may be a few signs to look out for.</span>
+		
+			<span class="more">Read now</span>
+			</a>
+	</div> 				</div>
+						<div class='suggested_reading_inner column2'>
+				<div class="suggested_item">
+		<a href="/articles/319423.php?sr" title="How do we maintain relationships? Study sheds light">
+		<div class="suggested_item_image">
+			<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAQAAAAe/WZNAAAADklEQVR42mNkgAJGDAYAAFEABCaLYqoAAAAASUVORK5CYII=" data-src="https://cdn1.medicalnewstoday.com/content/images/headlines/319/319423/happy-laughing-couple.jpg" alt="" />
+		</div>
+		<span class="title">How do we maintain relationships? Study sheds light</span>
+		<span class="summary">A new comprehensive review explains relationship management, suggesting that both individual perception and active communication play key roles.</span>
+		
+			<span class="more">Read now</span>
+			</a>
+	</div> 				</div>
+						<div class='suggested_reading_inner column3'>
+				<div class="suggested_item">
+		<a href="/articles/321158.php?sr" title="Do you really know how your partner feels?">
+		<div class="suggested_item_image">
+			<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAQAAAAe/WZNAAAADklEQVR42mNkgAJGDAYAAFEABCaLYqoAAAAASUVORK5CYII=" data-src="https://cdn1.medicalnewstoday.com/content/images/hero/321/321158/321158_1100.jpg" alt="" />
+		</div>
+		<span class="title">Do you really know how your partner feels?</span>
+		<span class="summary">We think that we know our long-term partners well, and that we can tell if they're facing an emotional struggle. But how accurate are we, really?</span>
+		
+			<span class="more">Read now</span>
+			</a>
+	</div> 				</div>
+						<div class='suggested_reading_inner column4'>
+				<div class="suggested_item">
+		<a href="/articles/320229.php?sr" title="Think your relationship is doomed? Then it probably is">
+		<div class="suggested_item_image">
+			<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAQAAAAe/WZNAAAADklEQVR42mNkgAJGDAYAAFEABCaLYqoAAAAASUVORK5CYII=" data-src="https://cdn1.medicalnewstoday.com/content/images/hero/320/320229/320229_1100.jpg" alt="" />
+		</div>
+		<span class="title">Think your relationship is doomed? Then it probably is</span>
+		<span class="summary">If you think there's a high chance you will break up with your partner, it's probably in the cards, according to the results of a new study.</span>
+		
+			<span class="more">Read now</span>
+			</a>
+	</div> 				</div>
+						<div class='suggested_reading_inner column5'>
+				<div class="suggested_item">
+		<a href="/articles/320747.php?sr" title="Battered woman syndrome: Stages and recovery">
+		<div class="suggested_item_image">
+			<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAQAAAAe/WZNAAAADklEQVR42mNkgAJGDAYAAFEABCaLYqoAAAAASUVORK5CYII=" data-src="https://cdn1.medicalnewstoday.com/content/images/hero/320/320747/320747_1100.jpg" alt="" />
+		</div>
+		<span class="title">Battered woman syndrome: Stages and recovery</span>
+		<span class="summary">Battered woman syndrome is a condition that can develop as a result of an abusive relationship. Learn about the symptoms, stages, and complications. </span>
+		
+			<span class="more">Read now</span>
+			</a>
+	</div> 				</div>
+				</div>
+	</div>
+	</div>
+		<div class="telehealth_inline">
+	<a href="https://book.plushcare.com/healthlinepartner?utm_source=medicalnewstoday&utm_medium=affilliate&utm_content=%7BFindADoc%7D" title="Connect with a board-certified doctor online in minutes.">
+	<div>
+		<img src="/structure/images/icons/telehealth_stethoscope.svg">
+		<div class="headline">Have a medical question? Connect with an online doctor</div> 
+		<div class="more">Get started</div> 
+	</div>
+	</a>
+</div>
+	
+
+<div id="social_bottom"  >			
+    <div id="share_social_bottom">    
+        <div id="article_social_bottom_facebook" ></div>
+        <div id="article_social_bottom_twitter" ></div>
+        <div id="article_social_bottom_linkedin" ></div>
+
+		    
+    </div>
+    <div class="toolbox">
+		<div class="email">            <a rel="nofollow" title="email this article" href="#">
+			<span class="toolbox_label">email</span></a>
+            <span class="visuallyhidden">
+            <a rel="nofollow" title="email this article" href="#">email</a>
+            </span>
+        </div>        
+		        <div class="print">			            <a id="a98678c591d100f8d4b0df1685c5762e" href="#" rel="nofollow" title="View print preview" target="_blank">
+			<span class="toolbox_label">print</span></a>
+        </div>        		
+		<div class="share">            <a rel="nofollow" title="share this article" href="#">
+			<span class="toolbox_label">share</span></a>
+            <span class="visuallyhidden">
+            <a rel="nofollow" title="share this article" href="#">share</a>
+            </span>
+        </div>
+
+    </div>
+
+</div><a id="rate-this-article"></a>	<div class="article_category_container">
+					<div class="article_main_category_container"> 
+				<span itemprop="genre" class="category_main">
+				<a href="/categories/psychology-psychiatry" title="Psychology / Psychiatry News" class="current">Psychology / Psychiatry</a>
+				</span>
+			</div> 					<div class="article_sub_category_container">
+				</div> 	</div> 	
+                    <div class="widget_citation_group" id="widget_citation">
+                        <div class="panel widget_citation_panel">
+                            <div class="panel-heading widget_citation_heading active">
+                                <h4 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#widget_citation" href="#references">
+                                        References</a>
+                                </h4>
+                            </div>
+                            <div id="references" class="panel-collapse collapse in">
+                                <div class="panel-body widget_citation_body">
+                                    	<ul id="references" >
+		<noscript> 
+		This content requires JavaScript to be enabled.<br/><br/> 
+		</noscript>
+		<p>
+		There are no references listed for this article.		</p>
+	</ul>
+	                                </div>
+                            </div>
+                        </div>
+
+                        <div class="panel widget_citation_panel">
+                            <div class="panel-heading widget_citation_heading">
+                                <h4 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#widget_citation" href="#additional">
+                                        Additional information</a>
+                                </h4>
+                            </div>
+                            <div id="additional" class="panel-collapse collapse">
+                                <div class="panel-body widget_citation_body">
+                                    	<ul id="additional" >
+
+		<p> Visit our <a href='/categories/psychology-psychiatry' title='Visit our Psychology / Psychiatry category page'>Psychology / Psychiatry</a> category page for the latest news on this subject, or <a href='/newsletter' title='Sign up to our newsletter'>sign up to our newsletter</a> to receive the latest updates on Psychology / Psychiatry.		</p>
+	</ul>
+	                                </div>
+                            </div>
+                        </div>
+
+                        <div class="panel widget_citation_panel">
+                            <div class="panel-heading widget_citation_heading">
+                                <h4 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#widget_citation" href="#citations">
+                                        Citations</a>
+                                </h4>
+                            </div>
+                            <div id="citations" class="panel-collapse collapse">
+                                <div class="panel-body widget_citation_body">
+                                    	<ul id="citations" >
+		<p>Please use one of the following formats to cite this article in your essay, paper or report:</p><p><strong>MLA</strong><br />Fay, Mary Jo. "Narcissism Victim Syndrome, A New Diagnosis?." <i>Medical News Today</i>. MediLexicon, Intl., 17 Jul. 2004. Web.<br>3 Oct. 2018. &lt;https://www.medicalnewstoday.com/articles/10872.php&gt;</p><hr size="1" /><p><strong>APA</strong><br />Fay, M. (2004, July 17). "Narcissism Victim Syndrome, A New Diagnosis?." <i>Medical News Today</i>. Retrieved from<br><a href='https://www.medicalnewstoday.com/articles/10872.php' itemprop='url'>https://www.medicalnewstoday.com/articles/10872.php</a>.</p><hr size="1" /><p>Please note: If no author information is provided, the source is cited instead.</p>	</ul>
+	                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+					
+	
+		
+						<link rel="stylesheet" href="https://cdn1.medicalnewstoday.com/structure/styles/styles_override_trendmd_7721.css" type="text/css" media="all" />
+			
+		
+				<h2 class="suggested_reading trendmd_suggestions_heading">Recommended related news</h2>
+		
+				<div id="trendmd-suggestions"></div>
+		
+		<script>
+
+			//init glob_JS, depulicate in gdpr_js_queue.js because the file will be execute before gdpr_js_queue.js loading
+			glob_JS=(typeof glob_JS === 'undefined')?{'GAInit':[],'GA':[],"ExternalJS":[],"AD":[]}:glob_JS;
+
+			fireOrSaveJsFunctions(1,function(){loadScript(
+				"https://cdn1.medicalnewstoday.com/structure/javascript/cache/trendmd.min.js",
+				{"data-trendmdconfig":'{"journal_id":"53928","element":"#trendmd-suggestions"}'},
+				function(){}
+
+			)});
+
+		</script>
+
+
+				
+		<script type="text/javascript">
+
+		fireOrSaveJsFunctions(1,function(){
+
+			//TrendMD suggest reading check
+
+			var interval = null;
+			//Check every 5 secs
+			interval = setInterval(function(){
+
+				var trendmdSuggestions = document.getElementById('trendmd-suggestions');
+
+				var trendmdChildLength = trendmdSuggestions.children.length;
+
+
+				if(trendmdChildLength > 0){
+					trendmdSuggestions.style.display = 'block';
+					//$("#trendmd-suggestions").prev().hide();
+
+					document.getElementsByClassName("trendmd_suggestions_heading")[0].style.display = 'block';
+
+
+					if(is_userMobile&&!glob_responsiveOverride){
+						//We add new styles in
+
+						var elements = document.querySelectorAll('.trendmd-widget_horizontal .trendmd-widget-section');
+
+						for (var i = 0; i < elements.length; i++) {
+							elements[i].style.cssText = 'width:100% !important;margin: 0!important;padding: 0!important;';
+						};
+
+					}
+
+					clearInterval(interval);
+
+				}
+
+			},5000);
+
+			//If it runs over 120 secs ,kill the process
+			setTimeout(function() {
+
+				var trendmdSuggestions = document.getElementById('trendmd-suggestions');
+
+				var trendmdChildLength = trendmdSuggestions.children.length;
+
+				//If trendMD is still not working , we kill the process
+				if(trendmdChildLength === 0){
+
+					clearInterval(interval);
+					trendmdSuggestions.classList.add("process_killed");
+
+				}
+
+			}, 1200000);
+
+		});
+
+			
+		
+		</script>
+		<!-- TID: 4381 -->
+
+	
+<div class="article_email">
+	<div id="header_close_button" class="email_close"></div>
+	<div class="emailform_container">
+
+	</div>
+</div></div>  
+</article>
+
+	<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 sidebar"> <!-- article_ad code -->
+<!-- MREC ARTICLE advert -->
+<div id="mnt_dmr1_container" class="mnt mrec"> 
+
+<div class="mnt_history" style="display:none;">
+	<a href="/knowledge-center"><img src="https://cdn1.medicalnewstoday.com/structure/images/mnt_ads/mnt_knowledge_center_001.png" alt="MNT Knowledge Center" /></a>
+ 	
+
+</div>
+
+		<div id='mnt_dmr1_unit' adonis-marker>
+		<script type='text/javascript'>
+			googleAdSlotInfo.push({
+				"slotName":'MNT_DMR1',
+				"slotContainer":'mnt_dmr1_container'			});
+		</script>
+		</div>
+		</div> <!-- /article_ad code -->
+<div class="sidebar_cta ios_app">
+	
+    <a href="https://itunes.apple.com/app/id1015817899" title="Download the MNT iPhone app" target="_blank">
+	<img src="https://cdn1.medicalnewstoday.com/structure/images/app/mnt_app_download_half_iphone.jpg" alt="Download the MNT iPhone app" title="Download the MNT iPhone app">
+    </a>
+
+</div>	<div id="sidebar_feature" class="full">
+			<h2>Latest news</h2>
+		<span></span>
+	<ul class="sidebar_feature">
+	<li>	<a href="/articles/323246.php" title="Could we use gene mutations to treat diabetes and heart disease?">
+	<div>
+
+	<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAQAAAAe/WZNAAAADklEQVR42mNkgAJGDAYAAFEABCaLYqoAAAAASUVORK5CYII=" data-src="https://cdn1.medicalnewstoday.com/content/images/hero/323/323246/323246_1100.jpg" alt="Could we use gene mutations to treat diabetes and heart disease?" class="original">
+	<div class="headline">Could we use gene mutations to treat diabetes and heart disease?</div> 
+	<div class="excerpt">A gene study of 300,000 veterans yields three cholesterol-controlling mutations that could help develop new drugs for diabetes and cardiovascular disease.</div>
+	</div>
+
+	</a></li>
+	<li>	<a href="/articles/323221.php" title="5 bizarre medical techniques from history">
+	<div>
+
+	<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAQAAAAe/WZNAAAADklEQVR42mNkgAJGDAYAAFEABCaLYqoAAAAASUVORK5CYII=" data-src="https://cdn1.medicalnewstoday.com/content/images/hero/323/323221/323221_1100.jpg" alt="5 bizarre medical techniques from history" class="original">
+	<div class="headline">5 bizarre medical techniques from history</div> 
+	<div class="excerpt">We discuss five unusual medical procedures from ancient civilizations and more recent history. The journey toward medical discovery has been a bumpy ride.</div>
+	</div>
+
+	</a></li>
+	<li>	<a href="/articles/323249.php" title="Why sudden cardiac arrests no longer peak in the morning">
+	<div>
+
+	<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAQAAAAe/WZNAAAADklEQVR42mNkgAJGDAYAAFEABCaLYqoAAAAASUVORK5CYII=" data-src="https://cdn1.medicalnewstoday.com/content/images/hero/323/323249/323249_1100.jpg" alt="Why sudden cardiac arrests no longer peak in the morning" class="original">
+	<div class="headline">Why sudden cardiac arrests no longer peak in the morning</div> 
+	<div class="excerpt">New research suggests that the peak time for certain adverse cardiovascular events has changed and suggests possible reasons for this shift.</div>
+	</div>
+
+	</a></li>
+	<li><!-- MNT_RNA advert -->
+
+<div id="mnt_rna_container" class="mnt rna_ad" > 
+
+<!-- MNT_RNA code -->
+<div class="mnt_history" style="display:none;">
+
+	<a href="/whitelist-mnt"><img src="https://cdn1.medicalnewstoday.com/structure/images/mnt_ads/mnt_history_leaderboard.png" alt="Thank you for supporting Medical News Today"/></a>
+
+
+</div>
+    <div id='mnt_rna_unit' adonis-marker>
+	<script type='text/javascript'>
+		googleAdSlotInfo.push({
+			"slotName":'MNT_RNA',
+			"slotContainer":'mnt_rna_container'		});
+	</script>
+	</div>
+	</div> <!-- /MNT_RNA code --></li><li>	<a href="/articles/323243.php" title="Choice overload: Why decision-making can be so hard">
+	<div>
+
+	<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAQAAAAe/WZNAAAADklEQVR42mNkgAJGDAYAAFEABCaLYqoAAAAASUVORK5CYII=" data-src="https://cdn1.medicalnewstoday.com/content/images/hero/323/323243/323243_1100.jpg" alt="Choice overload: Why decision-making can be so hard" class="original">
+	<div class="headline">Choice overload: Why decision-making can be so hard</div> 
+	<div class="excerpt">Why is it so hard to choose sometimes? Researchers explain what happens in the brain during this process, and what the ideal number of choices may be.</div>
+	</div>
+
+	</a></li>
+	<li>	<a href="/articles/323241.php" title="How virtual reality can boost your workout">
+	<div>
+
+	<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAQAAAAe/WZNAAAADklEQVR42mNkgAJGDAYAAFEABCaLYqoAAAAASUVORK5CYII=" data-src="https://cdn1.medicalnewstoday.com/content/images/hero/323/323241/323241_1100.jpg" alt="How virtual reality can boost your workout" class="original">
+	<div class="headline">How virtual reality can boost your workout</div> 
+	<div class="excerpt">New research suggests that adding a virtual reality headset to your workout could boost your performance and reduce your perception of pain.</div>
+	</div>
+
+	</a></li>
+		</ul>
+	</div>
+		
+<!-- article_ad code -->
+<!-- MREC ARTICLE advert -->
+<div id="mnt_dmr2_container" class="mnt mrec"> 
+
+<div class="mnt_history" style="display:none;">
+	<a href="/knowledge-center"><img src="https://cdn1.medicalnewstoday.com/structure/images/mnt_ads/mnt_knowledge_center_001.png" alt="MNT Knowledge Center" /></a>
+ 	
+
+</div>
+
+		<div id='mnt_dmr2_unit' adonis-marker>
+		<script type='text/javascript'>
+			googleAdSlotInfo.push({
+				"slotName":'MNT_DMR2',
+				"slotContainer":'mnt_dmr2_container'			});
+		</script>
+		</div>
+		</div> <!-- /article_ad code -->
+	<div class="full popular_tabs_container"> 	<div class="full popular_tabs_parent"> 	<h2 class="popular_tabs_heading"><span>Popular in: </span>Psychology / Psychiatry</h2><span></span>
+	<div id="popular_tabs">
+	<div class="centered">
+	
+	<ul class="nav">
+		</ul>
+	
+			<div class="list-wrap">
+					<ul id="popular-read">
+				<li class="featured">
+	<a href="/articles/323210.php" title="What lies at the dark core of the human psyche?">
+		<span class="headline">
+	What lies at the dark core of the human psyche?	</span>
+		</a></li>
+		<li class="knowledge">
+	<a href="/articles/321896.php" title="What is formication?">
+		<span class="headline">
+	What is formication?	</span>
+		</a></li>
+		<li class="spotlight">
+	<a href="/articles/323143.php" title="Hugs and kisses: The health impact of affective touch">
+		<span class="headline">
+	Hugs and kisses: The health impact of affective touch	</span>
+		</a></li>
+		<li class="written">
+	<a href="/articles/323148.php" title="How does being busy affect your lifestyle choices?">
+		<span class="headline">
+	How does being busy affect your lifestyle choices?	</span>
+		</a></li>
+		<li class="knowledge">
+	<a href="/articles/320747.php" title="Battered woman syndrome: Stages and recovery">
+		<span class="headline">
+	Battered woman syndrome: Stages and recovery	</span>
+		</a></li>
+				<span></span> 			</ul>
+					</div> <!-- /list_wrap -->
+			</div> <!-- /the_tabs -->
+	</div> <!-- /centered -->
+	</div> 	</div> 	</div> <!-- /sidebar -->
+</div> 
+</div> 
+
+
+	
+<div id="message"><a href="#top" style="display: none;">Scroll to top</a></div>
+
+
+<footer>
+
+<div class="container">
+
+	<div class="row"> 	
+		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 footer"> 		
+			<div id="footer_logo">
+				<a href="/"  title="Medical News Today : Home">
+					<img src="https://cdn1.medicalnewstoday.com/structure/images/logo/logo-mini-2017.png" alt="MNT home">
+				</a>
+			</div> 				
+			<div id="footer_social">
+				<span class="footer_facebook fa-stack fa-lg">
+				<a href="https://www.facebook.com/mntoday" target="_blank">
+				<i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+				</a></span>
+				<span class="footer_twitter fa-stack fa-lg">
+				<a href="https://twitter.com/mnt" target="_blank">
+				<i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+				</a></span>
+				<span class="footer_linkedin fa-stack fa-lg">
+				<a href="https://www.linkedin.com/company/medical-news-today" target="_blank">
+				<i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+				</a></span>
+				<span class="footer_google fa-stack fa-lg">
+				<a href="https://plus.google.com/+medicalnews/posts" target="_blank">
+				<i class="fa fa-google-plus fa-stack-1x fa-inverse"></i>
+				</a></span>
+				<span class="footer_pinterest fa-stack fa-lg">
+				<a href="https://www.pinterest.com/search/pins/?q=www.medicalnewstoday.com" target="_blank">
+				<i class="fa fa-pinterest fa-stack-1x fa-inverse"></i>
+				</a></span>
+			</div> 		
+			<div id="footer_list">
+				<ul>
+								<li><a href="/popular" title="View our most popular news articles">Popular news</a></li>
+				<li><a href="/archive" title="View all our editorial articles">Editorial articles</a></li>
+				<li><a href="/categories" accesskey="m" title="View our complete news category list">All news topics</a></li>
+				<li><a href="/knowledge-center" title="Medical conditions and information center">Knowledge center</a></li>
+
+													<li><a href="/tour" title="Personalize Medical News Today">Your MNT</a></li>
+					<li><a href="/account" title="Log in or sign up">Log in or sign up</a></li>
+					<li><a href="/newsletter" title="Medical News Today in your inbox">Newsletters</a></li>
+								<li><a href="/share-our-content" title="Share our content">Share our content</a></li>
+
+								<li><a href="/about" title="About Medical News Today">About us</a></li>
+				<li><a href="/authors" title="Our editorial team">Our editorial team</a></li>
+				<li><a href="/contact" title="Contact the Medical News Today team">Contact us</a></li>
+				<li><a href="/advertising" title="Advertise with Medical News Today">Advertise with MNT</a></li>
+				</ul>
+			</div> 				
+			<span class="footer_separator">
+				<span></span>
+			</span> 			
+			<div id="footer_newsletter" >
+									<h3>get our newsletter</h3>
+					<span>Health tips, wellness advice and more.</span>
+					
+					<div class="form-group">
+						<form method="post" action='https://www.medicalnewstoday.com/account' name="footerNewsletterSignup" id="footerNewsletterSignup" class="newsletterForm">
+						<div>
+							<input type="text" name="formEmail" id="EmailAddress" class="newsletterFormEmail" placeholder="Enter your email address" size="25" maxlength="150"/>
+							<button type="submit" class="btn btn-success btn-lg btn-block btn-footer footer_newsletter_link email-signup-btn new_reg_signup">Subscribe</button>
+							
+
+<p>Your <a href="/privacy-policy" title="Privacy policy">privacy</a> is important to us.</p>
+
+						</div>
+						<input type="hidden" id="entrypoint" name="entrypoint" value="footer_newsletter_link">
+						</form>
+					</div> 								
+			</div> 			
+			<span class="footer_separator">
+				<span></span>
+			</span> 			
+			<div id="copyright">
+				<div class="honcode_img">
+				<a href="https://www.healthonnet.org/HONcode/Conduct.html?HONConduct391155" class="seal" onclick="window.open(this.href); return false;">
+				<img src="https://www.honcode.ch/HONcode/Seal/HONConduct391155_s1.gif" alt="This website is certified by Health On the Net Foundation. Click to verify."></a>
+				</div> 				<div class="copyright_text float_left">
+					<p>Healthline Media UK Ltd, Brighton, UK.</p>
+					<p>&copy; 2004-2018 All rights reserved. MNT is the registered trade mark of Healthline Media. Any medical information published on this website is not intended as a substitute for informed medical advice and you should not take any action before consulting with a healthcare professional.</p>
+				</div> 				<div class="copyright_text float_right">
+					<p><a href="/privacy-policy" title="View our privacy policy" onclick="fireOrSaveJsFunctions(0,function() {ga('send', 'event', { eventCategory: 'New Header - Desktop - Footer', eventAction: 'Footer - Privacy policy', eventLabel: 'Footer - Privacy policy' });});" >Privacy</a> |
+					<a href="/terms" title="View our terms of use" onclick="fireOrSaveJsFunctions(0,function() {ga('send', 'event', { eventCategory: 'New Header - Desktop - Footer', eventAction: 'Footer - Terms', eventLabel: 'Footer - Terms' });});">Terms</a> |
+					<a href="/ad-policy" title="View our advertising policy">Ad policy</a> | 
+					<a href="https://www.healthline.com/health/careers" title="Careers" target="_blank">Careers</a></p>
+				</div> 			</div> 			
+			<div class="footer_truste_container">
+				<div class="footer_truste"><a href="//privacy.truste.com/privacy-seal/validation?rid=b59e7a69-59cd-449f-9af4-2bdba7d346e5" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/seal?rid=b59e7a69-59cd-449f-9af4-2bdba7d346e5" alt="TRUSTe"></a></div>
+			</div> 			
+		</div> 	
+				
+	</div> 
+</div> 
+<footer>
+
+<div id="print_message">
+	<p>This page was printed from: <strong><a href="https://www.medicalnewstoday.com/articles/10872.php">https://www.medicalnewstoday.com/articles/10872.php</a></strong></p>
+	<p>Visit <strong><a href="https://www.medicalnewstoday.com">www.medicalnewstoday.com</a></strong> for medical news and health news headlines posted throughout the day, every day.</p>
+	<hr/>
+	<p>2018 Healthline Media UK Ltd. All rights reserved. MNT is the registered trade mark of Healthline Media. Any medical information published on this website is not intended as a substitute for informed medical advice and you should not take any action before consulting with a healthcare professional.</p>
+</div> 
+<script type="text/javascript">
+	window.ga=window.ga||function(){};
+</script>
+
+
+
+
+
+
+<script type="text/javascript">
+		fireOrSaveJsFunctions(0,function() {ga('send', 'event', { eventCategory: 'New Header - Desktop - UI/UX Testing', eventAction: 'Show new header - Desktop', eventLabel: 'Show new header - Desktop', nonInteraction: true});});
+</script>
+
+<script type="text/javascript" >
+			var is_userMobile=0;
+			var is_userTablet=0;
+			var glob_responsiveOverride=0;
+			var glob_customUserID=0;
+			var category=[{"displayNavName":"ADHD \/ ADD","url":"adhd"},{"displayNavName":"Allergy","url":"allergy"},{"displayNavName":"Alzheimer's \/ Dementia","url":"alzheimers"},{"displayNavName":"Anxiety \/ Stress","url":"anxiety"},{"displayNavName":"Rheumatology","url":"rheumatology"},{"displayNavName":"Respiratory","url":"respiratory"},{"displayNavName":"Bipolar","url":"bipolar"},{"displayNavName":"Body Aches","url":"bodyaches"},{"displayNavName":"Breast Cancer","url":"breast_cancer"},{"displayNavName":"Cancer \/ Oncology","url":"cancer-oncology"},{"displayNavName":"Cardiovascular \/ Cardiology","url":"cardiovascular"},{"displayNavName":"Caregivers \/ Homecare","url":"caregivers"},{"displayNavName":"Cholesterol","url":"cholesterol"},{"displayNavName":"Crohn's","url":"crohns"},{"displayNavName":"Cystic Fibrosis","url":"cystic_fibrosis"},{"displayNavName":"Depression","url":"depression"},{"displayNavName":"Dermatology","url":"dermatology"},{"displayNavName":"Diabetes","url":"diabetes"},{"displayNavName":"Erectile Dysfunction","url":"erectile_dysfunction"},{"displayNavName":"Fertility","url":"fertility"},{"displayNavName":"Obesity \/ Weight Loss \/ Fitness","url":"fitness-obesity"},{"displayNavName":"Headache \/ Migraine","url":"headache-migraine"},{"displayNavName":"Liver Disease \/ Hepatitis","url":"liver_disease"},{"displayNavName":"HIV and AIDS","url":"hiv-aids"},{"displayNavName":"Hypertension","url":"hypertension"},{"displayNavName":"Irritable Bowel Syndrome","url":"ibs"},{"displayNavName":"Lung Cancer","url":"lung_cancer"},{"displayNavName":"Lymphoma","url":"lymphoma"},{"displayNavName":"Men's Health","url":"mens_health"},{"displayNavName":"Mental Health","url":"mental_health"},{"displayNavName":"Neurology \/ Neuroscience","url":"neurology"},{"displayNavName":"Pregnancy \/ Obstetrics","url":"pregnancy"},{"displayNavName":"Psychology \/ Psychiatry","url":"psychology-psychiatry"},{"displayNavName":"Schizophrenia","url":"schizophrenia"},{"displayNavName":"Seniors \/ Aging","url":"seniors"},{"displayNavName":"Sexual Health \/ STDs","url":"sexual_health"},{"displayNavName":"Statins","url":"statins"},{"displayNavName":"Urology \/ Nephrology","url":"urology-nephrology"},{"displayNavName":"Women's Health","url":"womens_health"},{"displayNavName":"Pediatrics \/ Children's Health","url":"pediatrics"},{"displayNavName":"Radiology \/ Nuclear Medicine","url":"radiology"},{"displayNavName":"Bones \/ Orthopedics","url":"bones"},{"displayNavName":"Public Health","url":"public_health"},{"displayNavName":"Bio-terrorism \/ Terrorism","url":"bioterrorism"},{"displayNavName":"Aid \/ Disasters","url":"aid-disasters"},{"displayNavName":"Genetics","url":"genetics"},{"displayNavName":"Ear, Nose and Throat","url":"ent"},{"displayNavName":"Alcohol \/ Illegal Drugs","url":"alcohol"},{"displayNavName":"Nursing \/ Midwifery","url":"nursing"},{"displayNavName":"Medical Students \/ Training","url":"medical_students"},{"displayNavName":"Pharma \/ Biotech Industry","url":"pharma_industry"},{"displayNavName":"Stem Cell Research","url":"stem_cell"},{"displayNavName":"Dentistry","url":"dentistry"},{"displayNavName":"Bird Flu \/ Avian Flu","url":"birdflu"},{"displayNavName":"MRSA \/ Drug Resistance","url":"mrsa-superbug"},{"displayNavName":"Eye Health \/ Blindness","url":"eye_health"},{"displayNavName":"Tropical Diseases","url":"tropical_diseases"},{"displayNavName":"Cleft Palate","url":"cleft_palate"},{"displayNavName":"Infectious Diseases","url":"infectious_diseases"},{"displayNavName":"Parkinson's Disease","url":"parkinsons_disease"},{"displayNavName":"GastroIntestinal","url":"gastrointestinal"},{"displayNavName":"CJD \/ vCJD \/ Mad Cow Disease","url":"cjd-vcjd"},{"displayNavName":"Nutrition \/ Diet","url":"nutrition-diet"},{"displayNavName":"Gout","url":"gout"},{"displayNavName":"Stroke","url":"stroke"},{"displayNavName":"Complementary Medicine","url":"complementary_medicine"},{"displayNavName":"Endocrinology","url":"endocrinology"},{"displayNavName":"Biology \/ Biochemistry","url":"biology-biochemistry"},{"displayNavName":"Multiple Sclerosis","url":"multiple_sclerosis"},{"displayNavName":"Autism","url":"autism"},{"displayNavName":"Water - Air Quality \/ Agriculture","url":"water_quality"},{"displayNavName":"Immune System \/ Vaccines","url":"immune_system"},{"displayNavName":"Lupus","url":"lupus"},{"displayNavName":"Cosmetic Medicine","url":"cosmetic_medicine"},{"displayNavName":"Rehabilitation","url":"rehabilitation"},{"displayNavName":"Pain \/ Anesthetics","url":"pain"},{"displayNavName":"Hearing \/ Deafness","url":"hearing-deafness"},{"displayNavName":"Muscular Dystrophy \/ ALS","url":"muscular_dystrophy"},{"displayNavName":"Sports Medicine \/ Fitness","url":"sports_medicine"},{"displayNavName":"MRI \/ PET \/ Ultrasound","url":"mri-pet"},{"displayNavName":"Huntingtons Disease","url":"huntingtons_disease"},{"displayNavName":"Medical Devices \/ Diagnostics","url":"medical_devices"},{"displayNavName":"Smoking \/ Quit Smoking","url":"smoking"},{"displayNavName":"Transplants \/ Organ Donations","url":"transplants"},{"displayNavName":"Sleep \/ Sleep Disorders","url":"sleep"},{"displayNavName":"IT \/ Internet \/ E-mail","url":"it"},{"displayNavName":"Dyslexia","url":"dyslexia"},{"displayNavName":"Medicare \/ Medicaid \/ SCHIP","url":"medicare-medicaid"},{"displayNavName":"Epilepsy","url":"epilepsy"},{"displayNavName":"Prostate \/ Prostate Cancer","url":"prostate"},{"displayNavName":"Veterinary","url":"veterinary"},{"displayNavName":"Abortion","url":"abortion"},{"displayNavName":"Health Insurance","url":"health_insurance"},{"displayNavName":"Litigation","url":"medical_malpractice"},{"displayNavName":"Clinical Trials \/ Drug Trials","url":"clinical_trials"},{"displayNavName":"Conferences","url":"conferences"},{"displayNavName":"Compliance","url":"compliance"},{"displayNavName":"Primary Care \/ General Practice","url":"primary_care"},{"displayNavName":"Flu \/ Cold \/ SARS","url":"flu-sars"},{"displayNavName":"Blood \/ Hematology","url":"blood"},{"displayNavName":"Colorectal Cancer","url":"colorectal_cancer"},{"displayNavName":"Acid Reflux \/ GERD","url":"gerd"},{"displayNavName":"Cervical Cancer \/ HPV Vaccine","url":"cervical_cancer"},{"displayNavName":"Eating Disorders","url":"eatingdisorders"},{"displayNavName":"Pharmacy \/ Pharmacist","url":"pharmacy"},{"displayNavName":"Regulatory Affairs","url":"regulatoryaffairs"},{"displayNavName":"Ovarian Cancer","url":"ovarian_cancer"},{"displayNavName":"Menopause","url":"menopause"},{"displayNavName":"Psoriasis","url":"psoriasis"},{"displayNavName":"Tuberculosis","url":"tuberculosis"},{"displayNavName":"Back Pain","url":"back-pain"},{"displayNavName":"Heart Disease","url":"heart-disease"},{"displayNavName":"Asbestos \/ Mesothelioma","url":"asbestos"},{"displayNavName":"Lymphology \/ Lymphedema","url":"lymphology"},{"displayNavName":"Veterans \/ Ex-Servicemen","url":"veterans"},{"displayNavName":"Medical Practice Management","url":"medical_practice"},{"displayNavName":"Melanoma \/ Skin Cancer","url":"melanoma"},{"displayNavName":"COPD","url":"copd"},{"displayNavName":"Palliative Care \/ Hospice Care","url":"palliative_care"},{"displayNavName":"Vascular","url":"vascular"},{"displayNavName":"Fibromyalgia","url":"fibromyalgia"},{"displayNavName":"Pancreatic Cancer","url":"pancreatic-cancer"},{"displayNavName":"Preventive Medicine","url":"preventive-medicine"},{"displayNavName":"Swine Flu","url":"swine-flu"},{"displayNavName":"Restless Legs Syndrome","url":"restless-legs"},{"displayNavName":"Food Intolerance","url":"food-intolerance"},{"displayNavName":"Personal Monitoring","url":"personal-monitoring"},{"displayNavName":"Surgery","url":"surgery"},{"displayNavName":"Emergency Medicine","url":"emergency-medicine"},{"displayNavName":"Pulmonary System","url":"pulmonary-system"},{"displayNavName":"Medical Innovation","url":"medical-innovation"},{"displayNavName":"Ebola","url":"ebola"},{"displayNavName":"Ulcerative Colitis","url":"ulcerative-colitis"},{"displayNavName":"Constipation","url":"constipation"},{"displayNavName":"Arrhythmia","url":"arrhythmia"},{"displayNavName":"Osteoporosis","url":"osteoporosis"},{"displayNavName":"Diabetes Type 1","url":"diabetes-type-1"},{"displayNavName":"Diabetes Type 2","url":"diabetes-type-2"},{"displayNavName":"Dry Eye","url":"dry-eye"},{"displayNavName":"Endometriosis","url":"endometriosis"},{"displayNavName":"Psoriatic Arthritis","url":"psoriatic-arthritis"},{"displayNavName":"Hypothyroid","url":"hypothyroid"},{"displayNavName":"Shingles","url":"shingles"},{"displayNavName":"Premature Ejaculation","url":"premature-ejaculation"},{"displayNavName":"Asthma","url":"asthma"},{"displayNavName":"VTE","url":"vte"},{"displayNavName":"Seasonal Allergy","url":"seasonal-allergy"},{"displayNavName":"Food Allergy","url":"food-allergy"},{"displayNavName":"OAB","url":"oab"},{"displayNavName":"Urinary Tract Infection","url":"urinary-tract-infection"},{"displayNavName":"Leukemia","url":"leukemia"},{"displayNavName":"Osteoarthritis","url":"osteoarthritis"},{"displayNavName":"Rheumatoid Arthritis","url":"rheumatoid-arthritis"},{"displayNavName":"Birth Control","url":"birth-control-contraception"},{"displayNavName":"Head and Neck Cancer","url":"head-and-neck-cancer"},{"displayNavName":"Atopic Dermatitis","url":"atopic-dermatitis-eczema"},{"displayNavName":"Bites and Stings","url":"bites-stings"}];
+			var glob_testServer = 0;
+			var resetpw = 0;
+			var glob_newSkin = 1;
+			var glob_menu_prefix = 'New Header';
+			var glob_deviceInfo = 'Desktop';
+			var glob_newRegistration = 1;
+			var glob_triggerSurvey = 0;
+			var glob_pageType = 'article';
+			var glob_siteRevision = 7721;
+			</script>
+
+
+		<script type="text/javascript" src="https://cdn2.medicalnewstoday.com/structure/javascript/out/mnt_default.js" defer></script>
+	
+
+
+
+
+<script type="text/javascript">
+
+	fireOrSaveJsFunctions(1,function(){
+
+		var tempAacctTid =setInterval(function() {
+
+			if(typeof _qevents !== "undefined"){
+				//wait until _qevents had been set
+				_qevents.push( { qacct:"p-v03RmX3GES6RT"} );
+				clearInterval(tempAacctTid);
+			}
+
+		}, 500);
+
+	});
+
+</script>
+<noscript>
+	<div style="display: none;">
+		<img src="https://pixel.quantserve.com/pixel/p-test123.gif" height="1" width="1" alt="Quantcast"/>
+	</div>
+</noscript>
+
+
+<script src="https://cdn1.medicalnewstoday.com/structure/javascript/cache/oct.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+	fireOrSaveJsFunctions(1,function(){
+		twttr.conversion.trackPid('l4bfr');
+	});
+
+</script>
+<noscript>
+	<img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=l4bfr&p_id=Twitter" />
+</noscript>
+
+
+
+<div id="fb-root"></div>
+<script>
+
+
+	fireOrSaveJsFunctions(1,function(){
+
+		(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3&appId=147184211975697";
+  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+
+	});
+
+
+
+
+</script>
+
+	<script>
+		eval(function(p,a,c,k,e,d){e=function(c){return c.toString(36)};if(!''.replace(/^/,String)){while(c--){d[c.toString(a)]=k[c]||c.toString(a)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('h d(){a(s t=5.p("q"),e=0;e<t.2;e++)t[e].7("8-6")&&t[e].u("6",t[e].7("8-6"))}a(c="f.g.n",k="o",b=c.2,m="",i=0;i<c.2;i++)-1==k.9(c.4(i))?(3=c.4(i),m+=3):(3=(k.9(c.4(i))-b+k.2)%k.2,m+=k.4(3));5.r==m&&5.j("l",d,!1);',31,31,'||length|ltr|charAt|document|src|getAttribute|data|indexOf|for|shift||replaceImages||YYY|30p7tBsN0YhHEpBw|function||addEventListener||DOMContentLoaded||tE3|q1Rj80GyBp4LthrnQI7Zu5XECmblkUSwKTWPH6MNzO2exgadv3csJVFYiDAf9o|getElementsByTagName|img|domain|var||setAttribute'.split('|'),0,{}))
+	</script>
+
+
+
+<div id="amzn-assoc-ad-c3555b57-ee3e-4ba5-b6f4-ec40911af7e4"></div>
+<script>
+
+	fireOrSaveJsFunctions(1,function(){loadScript(
+		"//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=c3555b57-ee3e-4ba5-b6f4-ec40911af7e4",
+		{},
+		function(){}
+
+	)});
+
+</script>
+
+
+<script type="text/javascript" >
+				var articleID="10872";
+				var articleType = "written";
+				var emailID = "10872";
+				var articleURL = "/articles/10872.php";
+				var threadID = "4381";
+				var opinionsOutput = 1;
+				var showAdsOnArticle = 1;
+				var isSponsored = 0;
+				var monetateVars = {
+					k1: ""
+				};
+				</script>
+    <script type="text/javascript">
+    
+		for(var contentBlocksDoms=document.querySelectorAll(".infobox_large.article-tcblocks > li"),i=0;i<contentBlocksDoms.length;i++){var _this=contentBlocksDoms[i],mobileHeadline=_this.querySelector("a  > div.headline.mobile"),excerpt=_this.querySelector("a > div > .excerpt"),desktopHeadlineHtmlStr=mobileHeadline.outerHTML;desktopHeadlineHtmlStr=desktopHeadlineHtmlStr.replace(/(class=\".*?)\s*mobile\s*(.*?\")/g,"$1$2"),null===_this.querySelector("a > div > .headline")&&excerpt.insertAdjacentHTML("beforebegin",desktopHeadlineHtmlStr),_this.getElementsByTagName("a")[0].removeChild(mobileHeadline)}
+
+		//Remove  class hide in tabbed content to show on desktop/ tablet
+		if(document.getElementsByClassName("collapsed__tabs")[0]){
+			document.getElementsByClassName("collapsed__tabs")[0].classList.remove('hide');	
+		}
+
+    </script>
+
+
+
+	<script type="text/javascript">
+
+		var articleTOC = document.getElementsByClassName("article_toc")[0];
+
+		if(document.body.contains(articleTOC)){
+			// if the page contains article TOC, we do the trick
+			var articleTOCpreviousElement = articleTOC.previousElementSibling;
+
+			if(articleTOCpreviousElement){
+				if((articleTOCpreviousElement.className.indexOf("photobox_header") !==-1&&articleTOCpreviousElement.querySelector("em") != null)||(articleTOCpreviousElement.className.indexOf("photobox_left") !==-1&&articleTOCpreviousElement.querySelector("em") != null)||(articleTOCpreviousElement.className.indexOf("photobox_right") !==-1&&articleTOCpreviousElement.querySelector("em") != null)){
+					articleTOC.classList.add("article_collapsed--top");
+				}
+			}
+
+		}
+
+	</script>
+
+
+
+	<input type="hidden" id="newsid" name="newsid" value="10872">
+	<input type="hidden" id="categoryid" name="categoryid" value="35">
+	<input type="hidden" id="glob" name="glob" value="1">
+	<input type="hidden" id="ratingHCP" name="ratingHCP" value="4.26">
+	<input type="hidden" id="ratingPublic" name="ratingPublic" value="4.59">
+	<input type="hidden" id="alreadyRated" name="alreadyRated" value="0">
+	<input type="hidden" id="kcarticle" name="kcarticle" value="0">
+	<input type="hidden" id="bottomRatingsBoxReadOnly" name="bottomRatingsBoxReadOnly" value="false">
+		
+			<script type="text/javascript" src="https://cdn2.medicalnewstoday.com/structure/javascript/out/mnt_article_7721.js" defer></script>
+		
+
+
+
+<script type="text/javascript">
+var mntDataLayer = "";
+//Fire in adblock.js cause that's the last event in the page 
+function setMNTDataLayer(e) {
+	mntDataLayer = {"article_meta":{"publisher":"Medical News Today","headline":"Narcissism Victim Syndrome, A New Diagnosis?","description":"Do you see a preponderance of middle aged women in your practices with no particular physical disease process, yet a variety of physical and\/or emotional complaints, including: insomnia, weight...","url":"\/articles\/10872.php","CanonicalURL":"https:\/\/www.medicalnewstoday.com\/articles\/10872.php","datePublished":"2004-07-17","dateUpdated":"","dateReviewed":"","author":"Mary Jo Fay","coAuthor":"","reviewer":"","ratingHCP":4.26,"ratingPublic":4.59,"commentCount":125,"shareCountFacebook":0,"shareCountGooglePlus":0,"shareCountLinkedIn":0,"shareCountPinterest":0,"ampURL":"","ampVersion":"N"},"reader":{"loggedIn":"no"},"targeting":{"categoryMain":"psychology-psychiatry","categorySub":[""],"articleKeywords":"","articleID":"10872","articleType":"written","articleVersion":"v1","articleAge":"older"},"customDimensions":{"siteVersion":"desktop","webServer":"4","iosAppTraffic":-1,"viewportWidth":0,"viewportHeight":0,"hidpi":0,"adblockStatus":0}}
+	mntDataLayer["article_meta"]["shareCountFacebook"] 	 = facebookCount;
+	mntDataLayer["article_meta"]["shareCountGooglePlus"] = googlePlusCount;
+	mntDataLayer["article_meta"]["shareCountLinkedIn"] 	 = linkedinCount;
+	mntDataLayer["article_meta"]["shareCountPinterest"]	 = pinterestCount;
+	mntDataLayer["article_meta"]["url"]	 				 = window.location.href;
+	mntDataLayer["customDimensions"]["adblockStatus"] 	 = adBlockValue;
+ 	mntDataLayer["customDimensions"]["viewportWidth"] = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
+ 	mntDataLayer["customDimensions"]["viewportHeight"] = Math.max(document.documentElement.clientHeight, window.innerHeight || 0);
+ 	mntDataLayer["customDimensions"]["hidpi"] = (window.devicePixelRatio >= 1.5) ? "HiDPI" : "1X";
+}
+</script>
+
+				 		<script type="text/javascript">var swoopID = "SW-59153175-1"; </script>	
+				 							<script type="text/javascript" >
+						  (function addSwoopOnce(domain) {
+							var win = window;
+							try {
+							  while (!(win.parent == win || !win.parent.document)) {
+								win = win.parent;
+							  }
+							} catch (e) {
+							  /* noop */
+							}
+							var doc = win.document;
+							if (!doc.getElementById('swoop_sdk')) {
+							  var serverbase = doc.location.protocol + '//ardrone.swoop.com/';
+							  var s = doc.createElement('script');
+							  s.type = "text/javascript";
+							  s.src = serverbase + 'js/spxw.js';
+							  s.id = 'swoop_sdk';
+							  s.setAttribute('data-domain', domain);
+							  s.setAttribute('data-serverbase', serverbase);
+							  doc.head.appendChild(s);
+							}
+						  })(swoopID);
+						</script> 
+			</div> </body>
+</html>
